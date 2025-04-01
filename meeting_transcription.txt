@@ -1,0 +1,2966 @@
+
+[0:00:00 - 0:00:03]: Um, like the update of where I ended last time.
+
+[0:00:05 - 0:00:08]: On the screen shot take here.
+
+[0:00:08 - 0:00:09]: Okay. Yeah.
+
+[0:00:09 - 0:00:10]: Does that does that?
+
+[0:00:10 - 0:00:10]: Okay.
+
+[0:00:10 - 0:00:11]: Yeah.
+
+[0:00:11 - 0:00:12]: Okay.
+
+[0:00:12 - 0:00:13]: So.
+
+[0:00:15 - 0:00:18]: Basically last time this is where I was basically I create.
+
+[0:00:18 - 0:00:21]: I was like, I'm going to upload a video file take screenshots and clips and that
+
+[0:00:21 - 0:00:24]: on pie charm and I created the files for me.
+
+[0:00:24 - 0:00:26]: And it worked told me what how to create them.
+
+[0:00:26 - 0:00:28]: It worked pretty easily.
+
+[0:00:28 - 0:00:32]: And then I said, okay, I want to have a blog, blog processor essentially like I'm going to
+
+[0:00:32 - 0:00:34]: upload the output for the cloud.
+
+[0:00:35 - 0:00:36]: And it was in cloud.
+
+[0:00:36 - 0:00:41]: I'm going to ask for it in the prompt to tell me like when to put the screenshots and the video
+
+[0:00:41 - 0:00:44]: and create a UI for me to do it.
+
+[0:00:44 - 0:00:46]: And so this and I didn't say any UI.
+
+[0:00:46 - 0:00:48]: So this was like the original one that gave me.
+
+[0:00:49 - 0:00:52]: You can select documents like video and then you get an output.
+
+[0:00:53 - 0:00:55]: And then it creates a folder here.
+
+[0:00:55 - 0:01:00]: So just see what the blog post HTML is, what the screenshots are and the clips.
+
+[0:01:01 - 0:01:05]: But then the screenshots were actually appearing in the HTML.
+
+[0:01:07 - 0:01:12]: And neither was the actual clip.
+
+[0:01:13 - 0:01:16]: So then I'll jump here.
+
+[0:01:16 - 0:01:20]: So then I worked with it to debug.
+
+[0:01:20 - 0:01:25]: And I was able to fix it to the screenshots.
+
+[0:01:25 - 0:01:27]: And also I wanted the formatting to be different.
+
+[0:01:27 - 0:01:31]: I had this very interesting thing happening with the cloud basically like I'm working inside
+
+[0:01:31 - 0:01:37]: of a project. And every single thing every single time I was like regenerate, fix the format.
+
+[0:01:37 - 0:01:40]: So the clip is smaller this is like in size.
+
+[0:01:41 - 0:01:42]: I got the same bug.
+
+[0:01:42 - 0:01:44]: So it would fix the HTML generator and get this bug.
+
+[0:01:45 - 0:01:46]: This is the bug.
+
+[0:01:46 - 0:01:48]: Then it would fix the code for me.
+
+[0:01:48 - 0:01:52]: And then the next request I had, like I think I got this bug 10 times.
+
+[0:01:52 - 0:01:54]: It was basically created, fix it.
+
+[0:01:54 - 0:01:59]: Then I asked one more thing, the version it created, like the next one that had this bug.
+
+[0:01:59 - 0:02:01]: You're this like in a loop.
+
+[0:02:01 - 0:02:02]: It was like we did.
+
+[0:02:02 - 0:02:03]: And then every time we would fix it.
+
+[0:02:05 - 0:02:10]: But let me show you the on-py charm, the output.
+
+[0:02:10 - 0:02:11]: Essentially I come into here.
+
+[0:02:12 - 0:02:20]: I go into my blog process or UI.
+
+[0:02:22 - 0:02:23]: I'm going to run it.
+
+[0:02:24 - 0:02:27]: Then I get this because I updated a bit the UI.
+
+[0:02:28 - 0:02:30]: I didn't really invest.
+
+[0:02:30 - 0:02:31]: By the way, I actually did not invest in this.
+
+[0:02:31 - 0:02:34]: I put one screenshot in from Monday and I created this.
+
+[0:02:34 - 0:02:36]: So obviously a lot more work can be done.
+
+[0:02:37 - 0:02:38]: That's quite cool.
+
+[0:02:38 - 0:02:41]: Yeah, I did update it from that original one.
+
+[0:02:41 - 0:02:42]: And then we say come to this one.
+
+[0:02:42 - 0:02:44]: I'm like this is our fourth blog.
+
+[0:02:44 - 0:02:47]: And here I've already asked Clod to put the clip in the screenshots in,
+
+[0:02:48 - 0:02:49]: like in the right format.
+
+[0:02:49 - 0:02:51]: And I'm going to get the video file.
+
+[0:02:53 - 0:02:55]: And then basically hit process blog.
+
+[0:02:56 - 0:02:57]: And then this pops up.
+
+[0:02:58 - 0:03:04]: And here I have all the actual these are the video clips and these are the screenshots.
+
+[0:03:05 - 0:03:07]: And if I hit this, I get this.
+
+[0:03:07 - 0:03:08]: This is HTML.
+
+[0:03:08 - 0:03:12]: Oh, put in the screenshots.
+
+[0:03:12 - 0:03:14]: This is how it looks.
+
+[0:03:15 - 0:03:16]: Yeah.
+
+[0:03:16 - 0:03:17]: And then the screenshots.
+
+[0:03:18 - 0:03:22]: And this somehow basically, like let's it be like this.
+
+[0:03:23 - 0:03:23]: Sorry.
+
+[0:03:24 - 0:03:26]: We need to get this like into medium.
+
+[0:03:28 - 0:03:29]: Yes.
+
+[0:03:29 - 0:03:32]: So that's the question is like I wonder if HTML is actually.
+
+[0:03:33 - 0:03:35]: Yeah, it had originally recommended it.
+
+[0:03:35 - 0:03:36]: I'm not sure.
+
+[0:03:36 - 0:03:36]: It's a medium.
+
+[0:03:36 - 0:03:38]: Not a medium.
+
+[0:03:38 - 0:03:39]: Yeah, I did say for me.
+
+[0:03:39 - 0:03:40]: Again, it could be.
+
+[0:03:41 - 0:03:43]: I didn't, you know, it could have not.
+
+[0:03:43 - 0:03:44]: Yeah.
+
+[0:03:44 - 0:03:48]: And then and like again, like here, I do think in the cop prompt,
+
+[0:03:49 - 0:03:51]: I mean, I ask like at every point to put something.
+
+[0:03:52 - 0:03:53]: They're not the.
+
+[0:03:54 - 0:04:00]: Like I do think we would need to invest more in like the in a prompt and picking the clips.
+
+[0:04:05 - 0:04:06]: Yes.
+
+[0:04:06 - 0:04:08]: That's also my finding.
+
+[0:04:09 - 0:04:10]: But you did.
+
+[0:04:10 - 0:04:10]: Yeah.
+
+[0:04:10 - 0:04:11]: By the way, it's great.
+
+[0:04:11 - 0:04:15]: No, because then maybe we could be like, this is the logic for what how to pick them, right?
+
+[0:04:15 - 0:04:18]: And then it would just go in here.
+
+[0:04:18 - 0:04:21]: And again, if this isn't the best format, then also like I need to be like,
+
+[0:04:21 - 0:04:24]: don't create an HTML create something else.
+
+[0:04:25 - 0:04:28]: But either way, I do have here, like I have all of the.
+
+[0:04:30 - 0:04:30]: Files, right?
+
+[0:04:30 - 0:04:34]: So like in one shot, it basically creates all the files and the posts.
+
+[0:04:34 - 0:04:38]: So like I, I feel like we could use this to do something super quick, because you saw like
+
+[0:04:38 - 0:04:41]: I basically had no effort once I actually had the text.
+
+[0:04:42 - 0:04:47]: And if the text has the right clips and screenshots, it's just going to pull them, right?
+
+[0:04:48 - 0:04:52]: The only thing what the what it needs to know, the way it needs to be written,
+
+[0:04:54 - 0:05:00]: is basically it needs to say in the text, it needs to appear like this.
+
+[0:05:01 - 0:05:03]: So this is a screenshot and then the clip right.
+
+[0:05:03 - 0:05:05]: So that's it. Like basically it sees this and then it's pulling it in.
+
+[0:05:05 - 0:05:10]: So if there's a better logic for where I should go, whatever, we just needed to come into the post.
+
+[0:05:10 - 0:05:12]: And then the tool can just create it.
+
+[0:05:12 - 0:05:16]: I am working on now also on doing the highlight reel.
+
+[0:05:16 - 0:05:17]: I still have a bug in it.
+
+[0:05:17 - 0:05:22]: So like I'm not done, but basically the whole thing was like, I'm going to give you multiple
+
+[0:05:23 - 0:05:26]: timestamps and durations and make it into one.
+
+[0:05:26 - 0:05:27]: Oh, yeah, yeah, yeah.
+
+[0:05:28 - 0:05:29]: I think it should be pretty easy.
+
+[0:05:30 - 0:05:32]: Yeah, it just I think it should be pretty easy.
+
+[0:05:32 - 0:05:37]: And then and then if you and then maybe it probably needs some sort of like, what's it called?
+
+[0:05:37 - 0:05:42]: Like like title card or something because otherwise it'll jump too suddenly.
+
+[0:05:42 - 0:05:47]: So you probably need to be like, whatever name of the project and then the clip and that name of
+
+[0:05:47 - 0:05:52]: the project and then the clip and then oh, yeah, that's also probably very easy, right?
+
+[0:05:52 - 0:05:54]: It's black screen with these words on it.
+
+[0:05:55 - 0:05:55]: Yes.
+
+[0:05:56 - 0:05:59]: Yeah, so here it's still, but it still doesn't work, but basically put the video file in here.
+
+[0:05:59 - 0:06:00]: You would put in the pro.
+
+[0:06:00 - 0:06:02]: I was like, I gave it right the example prompt.
+
+[0:06:02 - 0:06:03]: We were getting from cloud.
+
+[0:06:03 - 0:06:07]: You would put it in and then it's like, we're going to save it and then it's going to put it.
+
+[0:06:07 - 0:06:08]: But you're right.
+
+[0:06:08 - 0:06:11]: I mean, I could have right it has right what the segment name is.
+
+[0:06:11 - 0:06:11]: Exactly.
+
+[0:06:11 - 0:06:14]: So you can just put in the segment name as a title card.
+
+[0:06:14 - 0:06:16]: So that's it.
+
+[0:06:16 - 0:06:18]: I do want to show like this was I then wanted.
+
+[0:06:19 - 0:06:20]: It was funny because you told me this was going to happen.
+
+[0:06:21 - 0:06:27]: But I was like, okay, let's say I want it not on not on pie charm.
+
+[0:06:27 - 0:06:28]: Right?
+
+[0:06:28 - 0:06:32]: By the way, this is on GitHub and you can ask like.
+
+[0:06:32 - 0:06:34]: I'm not going to ask this.
+
+[0:06:34 - 0:06:35]: Well, I saw you sent it.
+
+[0:06:35 - 0:06:36]: I haven't tried that.
+
+[0:06:36 - 0:06:37]: I sent a different one.
+
+[0:06:37 - 0:06:37]: I sent it to different.
+
+[0:06:37 - 0:06:38]: I sent you the transcript one.
+
+[0:06:38 - 0:06:39]: Okay.
+
+[0:06:39 - 0:06:43]: I think, but this one also, anyway, if I didn't share it, I can share it.
+
+[0:06:43 - 0:06:45]: But then I was like, I actually want this on the web, right?
+
+[0:06:45 - 0:06:47]: Like, I don't just want to run it on my computer.
+
+[0:06:48 - 0:06:49]: Which is not going to work.
+
+[0:06:49 - 0:06:50]: I'll show you why basically.
+
+[0:06:50 - 0:06:52]: So I then I then I went through a whole.
+
+[0:06:53 - 0:06:54]: It was like how you know, I've seen you.
+
+[0:06:54 - 0:06:55]: You've got how do I get?
+
+[0:06:56 - 0:06:57]: How do I get on the web?
+
+[0:06:57 - 0:06:59]: And so what was suggested was stream late like getting it.
+
+[0:06:59 - 0:07:01]: I'm GitHub and then using stream late.
+
+[0:07:03 - 0:07:05]: And here's my stream late.
+
+[0:07:07 - 0:07:10]: And which there was a lot of back in five.
+
+[0:07:10 - 0:07:12]: Five ago, there was a lot of.
+
+[0:07:13 - 0:07:16]: Wait, so what is the purpose of this to?
+
+[0:07:16 - 0:07:18]: Because I was like, let's say you want to use it, right?
+
+[0:07:18 - 0:07:20]: Not just me on my pie charm.
+
+[0:07:20 - 0:07:21]: And I can do it.
+
+[0:07:21 - 0:07:23]: I mean, make it into a natural app.
+
+[0:07:23 - 0:07:25]: So that will be to be able to go on a website and just.
+
+[0:07:26 - 0:07:26]: I see.
+
+[0:07:27 - 0:07:27]: Okay.
+
+[0:07:27 - 0:07:31]: And also I hadn't done like GitHub repro stream.
+
+[0:07:31 - 0:07:34]: It's also like, this is a good opportunity for me to get an app up.
+
+[0:07:35 - 0:07:40]: So I had to get on, you know, get on to GitHub and learn how to get my repo up there
+
+[0:07:40 - 0:07:42]: and connect to stream it.
+
+[0:07:42 - 0:07:44]: And in the beginning, I had a lot of bugs.
+
+[0:07:44 - 0:07:45]: And it didn't appear here.
+
+[0:07:46 - 0:07:51]: And I had issues with committing my GitHub through my pie charm.
+
+[0:07:51 - 0:07:52]: I can't force it.
+
+[0:07:53 - 0:07:55]: Not being so like, I feel like next time would be easier.
+
+[0:07:55 - 0:07:58]: And I did get an app up in the beginning.
+
+[0:07:58 - 0:07:59]: It looked like this.
+
+[0:07:59 - 0:08:02]: By the way, did they tell you to use GitHub desktop?
+
+[0:08:02 - 0:08:04]: Or did they tell you?
+
+[0:08:04 - 0:08:05]: No, they did not.
+
+[0:08:05 - 0:08:07]: Did I saw your years?
+
+[0:08:07 - 0:08:08]: They did not.
+
+[0:08:08 - 0:08:10]: And so I did not use GitHub desktop.
+
+[0:08:10 - 0:08:10]: Oh my god.
+
+[0:08:10 - 0:08:12]: It's so much easier.
+
+[0:08:12 - 0:08:14]: I don't know why they don't tell us to you.
+
+[0:08:14 - 0:08:15]: Yeah.
+
+[0:08:15 - 0:08:17]: So I also told that afterwards.
+
+[0:08:17 - 0:08:18]: It was so weird.
+
+[0:08:18 - 0:08:20]: Touchy PT was like, and then do this.
+
+[0:08:20 - 0:08:22]: And then do these kind of terminal commands.
+
+[0:08:22 - 0:08:23]: And then I googled it.
+
+[0:08:23 - 0:08:25]: And they were like, definitely use desktop.
+
+[0:08:25 - 0:08:27]: And then I was like, yeah, they've had desktop for like 10 years.
+
+[0:08:27 - 0:08:28]: Are you desktop?
+
+[0:08:31 - 0:08:32]: So yeah, I saw it.
+
+[0:08:32 - 0:08:33]: I read your thing.
+
+[0:08:33 - 0:08:36]: And I'm like, I did, you know, my rabbit hole.
+
+[0:08:36 - 0:08:38]: But I read your thing.
+
+[0:08:38 - 0:08:41]: And I was like, I guess I should double and get hope desktop.
+
+[0:08:41 - 0:08:42]: I have not yet done.
+
+[0:08:43 - 0:08:47]: And it created it.
+
+[0:08:47 - 0:08:48]: But what's the problem?
+
+[0:08:48 - 0:08:49]: Right.
+
+[0:08:49 - 0:08:53]: And you told me this was going to happen.
+
+[0:08:53 - 0:08:56]: I can only upload files that are not too large, right?
+
+[0:08:56 - 0:08:58]: Because it has to store them.
+
+[0:08:58 - 0:08:59]: Right.
+
+[0:08:59 - 0:09:02]: So like, okay, my blog is probably free.
+
+[0:09:02 - 0:09:03]: Yeah.
+
+[0:09:03 - 0:09:04]: You've got to move it.
+
+[0:09:04 - 0:09:07]: Even in the last game, one like our video file is so big.
+
+[0:09:07 - 0:09:08]: Right.
+
+[0:09:08 - 0:09:12]: So and then I can see how it works.
+
+[0:09:12 - 0:09:14]: If I want to go into a test,
+
+[0:09:14 - 0:09:17]: I think I can just put a clip, right?
+
+[0:09:17 - 0:09:18]: Right.
+
+[0:09:19 - 0:09:22]: But and then I can process it and that'll work.
+
+[0:09:25 - 0:09:27]: Oh, can I say what that looks like here?
+
+[0:09:27 - 0:09:28]: Here's a pre-rewritten.
+
+[0:09:28 - 0:09:29]: I didn't upload that after I fix this.
+
+[0:09:29 - 0:09:31]: See here, this is a four I fix the screenshots and whatever.
+
+[0:09:31 - 0:09:34]: I haven't fixed the stream that code yet.
+
+[0:09:34 - 0:09:35]: But you can preview it.
+
+[0:09:35 - 0:09:36]: And then you can also.
+
+[0:09:39 - 0:09:40]: I mean, it's cool.
+
+[0:09:40 - 0:09:41]: I just, it's not.
+
+[0:09:41 - 0:09:42]: Yeah, here, it didn't generate media files
+
+[0:09:42 - 0:09:44]: because I uploaded only a 20 second clip.
+
+[0:09:44 - 0:09:45]: So like it didn't have a right.
+
+[0:09:45 - 0:09:46]: Create this files.
+
+[0:09:48 - 0:09:51]: So yeah, so like cool, right?
+
+[0:09:51 - 0:09:53]: It's up and it's free just for this use case
+
+[0:09:53 - 0:09:55]: because the files are so big.
+
+[0:09:56 - 0:09:57]: It's not actually going to work.
+
+[0:09:59 - 0:10:03]: And then I have probably a way to do it on Google Cloud.
+
+[0:10:03 - 0:10:05]: Just because now I have the.
+
+[0:10:05 - 0:10:08]: Just again, just paying for.
+
+[0:10:10 - 0:10:11]: Like all the storage, right?
+
+[0:10:11 - 0:10:14]: We have like 20s error bytes or 200 error bytes
+
+[0:10:14 - 0:10:15]: or something insane.
+
+[0:10:16 - 0:10:20]: So that's also why originally I wanted to build a
+
+[0:10:20 - 0:10:22]: scheduler in Google Cloud.
+
+[0:10:22 - 0:10:23]: Yeah.
+
+[0:10:23 - 0:10:27]: Because it was basically like any way like half.
+
+[0:10:27 - 0:10:28]: Yeah.
+
+[0:10:28 - 0:10:28]: Yeah.
+
+[0:10:28 - 0:10:32]: So Google Cloud you anyway like to do cloud run.
+
+[0:10:32 - 0:10:35]: And cost money.
+
+[0:10:35 - 0:10:37]: But I think also you get a lot for free.
+
+[0:10:37 - 0:10:39]: So then the main issue would be storage
+
+[0:10:39 - 0:10:40]: which anyway I've paid for.
+
+[0:10:41 - 0:10:41]: Yeah.
+
+[0:10:42 - 0:10:43]: But it's much more complicated.
+
+[0:10:43 - 0:10:46]: So this was the thing that ChatGPTV was like it's fine.
+
+[0:10:46 - 0:10:48]: And then I spent six hours trying to make it work.
+
+[0:10:49 - 0:10:51]: So this is like a thing now I also would write
+
+[0:10:51 - 0:10:53]: now that I have GitHub and I have street.
+
+[0:10:53 - 0:10:53]: Right.
+
+[0:10:53 - 0:10:54]: Exactly.
+
+[0:10:54 - 0:10:58]: Like now I were poised to be able to maybe handle it.
+
+[0:10:58 - 0:10:58]: Yeah, no.
+
+[0:10:58 - 0:11:01]: But I guess like a use case that's not uploading
+
+[0:11:02 - 0:11:04]: three hour video right would work here.
+
+[0:11:04 - 0:11:05]: Yes.
+
+[0:11:05 - 0:11:07]: And then it's super easy to get something up
+
+[0:11:07 - 0:11:08]: that you can actually play with.
+
+[0:11:08 - 0:11:10]: And then it's not like you need to
+
+[0:11:12 - 0:11:14]: pull my repo on your computer.
+
+[0:11:14 - 0:11:14]: Yeah.
+
+[0:11:16 - 0:11:18]: But that being said since you can
+
+[0:11:19 - 0:11:19]: yeah.
+
+[0:11:19 - 0:11:20]: Maybe you can do it.
+
+[0:11:20 - 0:11:23]: It is something like if we somehow
+
+[0:11:23 - 0:11:26]: join the best clip screen chat.
+
+[0:11:26 - 0:11:27]: Yeah.
+
+[0:11:27 - 0:11:28]: You could just use it.
+
+[0:11:28 - 0:11:30]: And then we need to figure out if the HTML is the
+
+[0:11:31 - 0:11:33]: get whatever format is actually going to be easy to put on
+
+[0:11:33 - 0:11:33]: media.
+
+[0:11:33 - 0:11:33]: Right.
+
+[0:11:34 - 0:11:37]: And then it should be like in one click essentially.
+
+[0:11:37 - 0:11:39]: Like once we have our blog content.
+
+[0:11:40 - 0:11:41]: I wonder if there's a
+
+[0:11:42 - 0:11:45]: like I mean I guess it's maybe I should learn from my mistakes
+
+[0:11:45 - 0:11:49]: around the Canva because I was like it'd be really nice if we didn't have to
+
+[0:11:49 - 0:11:53]: go into cloud or I mean probably cloud rather than GPT because it's a better
+
+[0:11:53 - 0:11:57]: writer but like yeah like post the thing like put it like that we had
+
+[0:11:58 - 0:12:00]: one thing that then ran through all of the logic.
+
+[0:12:01 - 0:12:01]: And did it.
+
+[0:12:03 - 0:12:04]: So I have two things today.
+
+[0:12:04 - 0:12:08]: One I don't think we're going to get to a point where there's no commentary
+
+[0:12:08 - 0:12:09]: back and forth with cloud about the content.
+
+[0:12:09 - 0:12:10]: That's true.
+
+[0:12:10 - 0:12:10]: Yeah.
+
+[0:12:10 - 0:12:11]: So that's one.
+
+[0:12:11 - 0:12:13]: The second one is I'll show you because the next
+
+[0:12:13 - 0:12:16]: use because I tried and it wasn't it didn't work.
+
+[0:12:16 - 0:12:19]: But on one of the list from the course was
+
+[0:12:20 - 0:12:24]: Auto GPT which basically is an accessible
+
+[0:12:27 - 0:12:30]: accessible tool to build like a complex flow of different agents.
+
+[0:12:34 - 0:12:38]: And I was like well you know build deploy and run AI agents.
+
+[0:12:38 - 0:12:39]: It's like this is perfect.
+
+[0:12:39 - 0:12:41]: This is exactly what we need.
+
+[0:12:41 - 0:12:43]: So I did all of this at my computer almost like.
+
+[0:12:46 - 0:12:51]: But they I guess they have a bug right now because I basically I have it now
+
+[0:12:51 - 0:12:53]: on the Auto GPT.
+
+[0:12:53 - 0:12:55]: I have it all here.
+
+[0:12:55 - 0:13:00]: And I did everything but it doesn't run and they have a bug now that basically
+
+[0:13:00 - 0:13:02]: you doesn't let you like launch the UI.
+
+[0:13:02 - 0:13:06]: It actually goes in your local so it goes here local hosts here.
+
+[0:13:09 - 0:13:12]: Anyway there's a there's a bug and like I went there was a place here to put
+
+[0:13:12 - 0:13:16]: logs that I went into it and then I saw that they have for the past month
+
+[0:13:16 - 0:13:19]: like I'm experiencing it.
+
+[0:13:19 - 0:13:22]: But this was like I'll ask this and send me maybe there's a
+
+[0:13:22 - 0:13:22]: Meather tool.
+
+[0:13:23 - 0:13:25]: I think there's probably lots of these tools.
+
+[0:13:25 - 0:13:31]: I guess like the one thing that I was like maybe stopping myself around it is
+
+[0:13:34 - 0:13:40]: a little bit remembering what I was trying to do with the Instagram quotes last time right like
+
+[0:13:40 - 0:13:45]: what am I trying to optimize to save because realistically that putting it in
+
+[0:13:45 - 0:13:46]: Canva takes a minute for post.
+
+[0:13:47 - 0:13:51]: So like how long is it taking for me to copy and paste and like throw a couple of
+
+[0:13:51 - 0:13:52]: things into the project?
+
+[0:13:53 - 0:13:57]: Two-th minutes and so am I trying to get down from two minutes to like 10 seconds?
+
+[0:13:57 - 0:14:02]: It seems like maybe that's not where I should be spending all of this effort.
+
+[0:14:02 - 0:14:03]: Yeah.
+
+[0:14:03 - 0:14:04]: So.
+
+[0:14:04 - 0:14:08]: But then yeah, I mean this is like a use case similar to ours like things that I wanted to
+
+[0:14:08 - 0:14:08]: do.
+
+[0:14:08 - 0:14:08]: You can do right?
+
+[0:14:08 - 0:14:10]: It just does a couple that like
+
+[0:14:11 - 0:14:15]: describes that video, finds the quotes and then post them in social media.
+
+[0:14:15 - 0:14:18]: So it's like yeah if we can get something that's to work we can't
+
+[0:14:18 - 0:14:20]: hypothetically get to the point where?
+
+[0:14:21 - 0:14:22]: Yes.
+
+[0:14:22 - 0:14:29]: I also seen a lot of people like I was on YouTube earlier this week around just getting agents to
+
+[0:14:30 - 0:14:31]: post content.
+
+[0:14:31 - 0:14:37]: I think it's like also because I do care that it is good-ish.
+
+[0:14:38 - 0:14:43]: Then I'm like I think you're right that anyway I'll want to review it.
+
+[0:14:43 - 0:14:43]: Sure.
+
+[0:14:43 - 0:14:47]: And so then then it a little bit defeats the purpose of it because if it's not just
+
+[0:14:47 - 0:14:52]: automatically doing it quickly and you're going to stop the process anyway.
+
+[0:14:54 - 0:14:56]: Nobody could have probably had a part of the process.
+
+[0:14:56 - 0:15:00]: So I'm assuming I could have a step here that I need to click or make any changes and then it
+
+[0:15:00 - 0:15:00]: continues.
+
+[0:15:01 - 0:15:08]: Yes, but I guess like then it minimizes the benefit because anyway you need to go in and
+
+[0:15:08 - 0:15:12]: you know what I mean like it's a lot nicer to be like one click and it does all the things
+
+[0:15:13 - 0:15:17]: for you but if anyway you're going to check it at multiple times and it's like
+
+[0:15:18 - 0:15:23]: you're actually not saving that much time but we can try anyway just for like a learning exercise
+
+[0:15:23 - 0:15:25]: of building agents.
+
+[0:15:25 - 0:15:30]: I'm just like realistically if it were a company I don't know that I would put that much
+
+[0:15:30 - 0:15:32]: effort into doing something like this.
+
+[0:15:32 - 0:15:33]: Yeah.
+
+[0:15:33 - 0:15:35]: And so again I just wanted I was like let me just try.
+
+[0:15:35 - 0:15:41]: So I'll ask them if there's another one they recommend on Sunday and let's see what they said
+
+[0:15:41 - 0:15:46]: but just this one like I did spend all the time and then I'm getting it up.
+
+[0:15:46 - 0:15:50]: But it is cool at least that now we have I did feel like it was cool that now I have the
+
+[0:15:50 - 0:15:51]: capability.
+
+[0:15:52 - 0:15:55]: Yes, we get this up that I did not previously.
+
+[0:15:55 - 0:15:59]: So that was quite I'm basically supposed to get me to UI that we would just connect
+
+[0:15:59 - 0:16:00]: to different agents.
+
+[0:16:03 - 0:16:06]: And like before I wouldn't have been able to do it now it was just like okay yes I downloaded
+
+[0:16:06 - 0:16:13]: Docker and via code that was that was I still don't know what Docker is but I've also used it.
+
+[0:16:13 - 0:16:17]: Yeah, I know it's me we I say but like it doesn't matter.
+
+[0:16:17 - 0:16:22]: And also I remember my devs discussing it and I was like oh good I learned what Docker is
+
+[0:16:22 - 0:16:23]: and I still don't know.
+
+[0:16:23 - 0:16:28]: Yeah because that's a benefit here it's just like following the instructions and and in all
+
+[0:16:28 - 0:16:36]: the work I recognize these terms but I just get on to not any more than I do.
+
+[0:16:37 - 0:16:37]: Yeah.
+
+[0:16:40 - 0:16:44]: Here I just kept to like this is actually done.
+
+[0:16:45 - 0:16:50]: So this is how do we upload to medium we need to see and then also video that I'm in progress.
+
+[0:16:51 - 0:16:51]: Okay yeah.
+
+[0:16:52 - 0:17:00]: So Google and it's then basically you can't directly upload a raw HTML file but you can copy and
+
+[0:17:00 - 0:17:07]: paste HTML code snippets where medium will then interpret and render certain basic HTML flags
+
+[0:17:07 - 0:17:11]: but it will strip out more complex formatting or functionality.
+
+[0:17:11 - 0:17:18]: So I think basically what it means is like instead of us having to individually be like this is
+
+[0:17:18 - 0:17:26]: a header this is a bullet point it will automatically be like it's coded with LIs so it's a bullet
+
+[0:17:27 - 0:17:32]: it's coded with H1 so it's a big header which is still helpful right because that's part of what
+
+[0:17:32 - 0:17:39]: takes a while or like put a horizontal line here like it'll do all of that I don't know what will
+
+[0:17:39 - 0:17:45]: happen with like it said more advanced features like tables or iframes are not supported
+
+[0:17:45 - 0:17:47]: might not display correctly.
+
+[0:17:48 - 0:17:51]: And then I just like where do we upload the images in a screenshot to know that.
+
+[0:17:51 - 0:17:56]: So I think basically you'll have to put that in you'll have to be like insert image
+
+[0:17:56 - 0:17:58]: and put in the file anyway.
+
+[0:18:00 - 0:18:04]: So it's basically we need to try like I feel like it's like we need to try it to see.
+
+[0:18:07 - 0:18:12]: Because maybe I wonder not medium but like we have the site like if we build our site can we just.
+
+[0:18:14 - 0:18:15]: Yeah.
+
+[0:18:15 - 0:18:16]: HTML.
+
+[0:18:16 - 0:18:16]: Anything is something.
+
+[0:18:16 - 0:18:20]: Or is there another format that if it creates it right it's evidence HTML that then it'll work.
+
+[0:18:21 - 0:18:22]: Yeah.
+
+[0:18:22 - 0:18:23]: Yeah.
+
+[0:18:25 - 0:18:33]: The other thing is it looks like you can upload.
+
+[0:18:37 - 0:18:38]: H.T.
+
+[0:18:38 - 0:18:44]: I think you might be able to upload HTML into notion and then there is something that connects
+
+[0:18:44 - 0:18:47]: notion to medium if we care to be on medium.
+
+[0:18:48 - 0:18:49]: Okay.
+
+[0:18:49 - 0:18:53]: And I mean medium is just to save us to not have to build a website.
+
+[0:18:53 - 0:18:59]: So potentially if we have a website like then does HTML help like anyway that's what it
+
+[0:18:59 - 0:19:01]: never comes into me and that's why this is generating in a channel.
+
+[0:19:01 - 0:19:03]: There's another format that's going to save us.
+
+[0:19:04 - 0:19:04]: Yes.
+
+[0:19:04 - 0:19:05]: Yeah.
+
+[0:19:05 - 0:19:06]: I'm not really sure.
+
+[0:19:06 - 0:19:10]: I just thought medium would be the fastest because we don't have to build anything.
+
+[0:19:11 - 0:19:11]: Yeah.
+
+[0:19:12 - 0:19:12]: I agree.
+
+[0:19:12 - 0:19:13]: I agree.
+
+[0:19:13 - 0:19:13]: Yeah.
+
+[0:19:13 - 0:19:17]: So you can really have this tool built up the else if it's easier for medium.
+
+[0:19:18 - 0:19:25]: Yeah, but also maybe we just I haven't really used notion but I know people use it for blogging as well.
+
+[0:19:25 - 0:19:26]: Yeah.
+
+[0:19:27 - 0:19:31]: So potentially that's I'm just tagging you here so you know.
+
+[0:19:35 - 0:19:35]: Okay.
+
+[0:19:35 - 0:19:36]: Maybe I'll actually just go like this.
+
+[0:19:37 - 0:19:37]: Yeah.
+
+[0:19:37 - 0:19:43]: Or maybe there's something else that was just like the stuff that I've seen people use that seems like very stripped down.
+
+[0:19:46 - 0:19:46]: Okay.
+
+[0:19:48 - 0:19:54]: And then so that's the end of this one.
+
+[0:19:55 - 0:19:55]: Okay.
+
+[0:19:55 - 0:19:55]: Yeah.
+
+[0:19:55 - 0:19:59]: And then I started I so I think I that was those two right.
+
+[0:20:00 - 0:20:01]: The auto GPT and the blog.
+
+[0:20:01 - 0:20:02]: Yeah.
+
+[0:20:02 - 0:20:02]: Exactly.
+
+[0:20:02 - 0:20:02]: Yeah.
+
+[0:20:03 - 0:20:09]: Do you want to talk about the transcript repo or do you want to just start with it?
+
+[0:20:09 - 0:20:10]: Yeah.
+
+[0:20:10 - 0:20:12]: I mean these are easy these are super quick ones.
+
+[0:20:12 - 0:20:13]: So let me let me do them.
+
+[0:20:13 - 0:20:16]: Oh and the blog post and other or is that already?
+
+[0:20:16 - 0:20:17]: That's actual content.
+
+[0:20:17 - 0:20:21]: But yeah that one maybe is a bit longer but here so let me basically replicate.
+
+[0:20:23 - 0:20:28]: Once I have GitHub I actually just went to Reflit and I downloaded.
+
+[0:20:28 - 0:20:35]: Click download download the zip open the zip and that zip basically I was able to upload both to PyCharm.
+
+[0:20:38 - 0:20:44]: So here you can see this is the full everything I had up there including the images
+
+[0:20:45 - 0:20:47]: that I had uploaded there.
+
+[0:20:47 - 0:20:56]: So like everything is here but actually it told me when it said it's not actually meant for
+
+[0:20:57 - 0:21:01]: PyCharm it works better and be as code the way that this project was written.
+
+[0:21:02 - 0:21:06]: So then I also might get a specifically good for Python right?
+
+[0:21:06 - 0:21:07]: That's what I'm looking at.
+
+[0:21:07 - 0:21:07]: Yeah.
+
+[0:21:07 - 0:21:08]: Yeah.
+
+[0:21:08 - 0:21:13]: And so then I also just uploaded here but again basically like I yeah now I do have everything here.
+
+[0:21:13 - 0:21:15]: And so I stopped the paid version at the moment.
+
+[0:21:17 - 0:21:19]: Because it doesn't really matter you have all the code now.
+
+[0:21:20 - 0:21:25]: Yeah that doesn't mean I'm again like if I wanted to deploy now a site or whatever but also if
+
+[0:21:25 - 0:21:28]: you remember I was like I need to completely debug this I probably need to build this differently
+
+[0:21:28 - 0:21:29]: than the way I did.
+
+[0:21:29 - 0:21:30]: Yeah yeah yeah yeah.
+
+[0:21:30 - 0:21:34]: But it's very easy to do something in Reflit I guess and then just grab it.
+
+[0:21:36 - 0:21:41]: And if you wanted to use Reflit again to continue do you know if you could like upload this
+
+[0:21:41 - 0:21:42]: and be like what's work from here?
+
+[0:21:42 - 0:21:44]: It seems like yes and I know.
+
+[0:21:44 - 0:21:48]: So then that makes even more sense to stop paying for Reflit.
+
+[0:21:48 - 0:21:49]: Yeah.
+
+[0:21:49 - 0:21:49]: Yeah.
+
+[0:21:49 - 0:21:52]: And I can upload this right to GitHub not right like I have the full.
+
+[0:21:52 - 0:21:52]: Yeah.
+
+[0:21:52 - 0:21:54]: Now I can upload it to GitHub.
+
+[0:21:54 - 0:21:55]: The whole Reflit.
+
+[0:21:55 - 0:21:55]: Yeah.
+
+[0:21:56 - 0:21:57]: So that's great.
+
+[0:21:58 - 0:21:59]: Cool.
+
+[0:21:59 - 0:22:02]: And this means of like you know some it doesn't you can then basically move it over.
+
+[0:22:03 - 0:22:04]: Yeah.
+
+[0:22:04 - 0:22:08]: Again it was like you probably need to change like the ports that it's connected to it all
+
+[0:22:08 - 0:22:10]: that like it was when I was asking what would need to.
+
+[0:22:10 - 0:22:12]: Oh yeah yeah yeah yeah.
+
+[0:22:12 - 0:22:19]: But at least like it's mostly and probably whatever some sort of thought would be able to help you figure out
+
+[0:22:19 - 0:22:20]: how to do it to it.
+
+[0:22:20 - 0:22:20]: Yeah.
+
+[0:22:20 - 0:22:21]: For sure.
+
+[0:22:21 - 0:22:22]: Especially because I can upload.
+
+[0:22:23 - 0:22:25]: Now I can upload the full project.
+
+[0:22:25 - 0:22:27]: We hope for a repro to Claude.
+
+[0:22:28 - 0:22:28]: Right.
+
+[0:22:28 - 0:22:30]: Now we know the places that I need to.
+
+[0:22:30 - 0:22:31]: Yeah yeah yeah yeah yeah yeah yeah yeah.
+
+[0:22:31 - 0:22:32]: That would be easy.
+
+[0:22:33 - 0:22:36]: So that's the that's the Reflit one.
+
+[0:22:36 - 0:22:37]: And then here as well.
+
+[0:22:37 - 0:22:38]: So I basically I took
+
+[0:22:39 - 0:22:43]: the transcription project and.
+
+[0:22:45 - 0:22:49]: I uploaded this is how this is the first thing I did it was like I had a connect to GitHub.
+
+[0:22:50 - 0:22:56]: So I came in here and I come here to get it and get it and I committed all the changes and then I shared it with you.
+
+[0:22:57 - 0:22:59]: So separately you need it to create a GitHub.
+
+[0:23:00 - 0:23:03]: Like just the first thing I did with GitHub.
+
+[0:23:03 - 0:23:04]: Oh okay yeah yeah yeah yeah yeah yeah.
+
+[0:23:04 - 0:23:04]: Okay okay.
+
+[0:23:04 - 0:23:08]: I connected it here also basically Claude took me through this it wasn't.
+
+[0:23:09 - 0:23:17]: The easiest thing I had a figuring out how to commit and all that but I did it and now it's on my GitHub
+
+[0:23:17 - 0:23:18]: and it's shared with you.
+
+[0:23:18 - 0:23:22]: So basically and this is like transcription depaizer one that I run.
+
+[0:23:22 - 0:23:25]: I just come in here I put in the name of the recording.
+
+[0:23:26 - 0:23:26]: Okay.
+
+[0:23:26 - 0:23:33]: And this is the path word is for me on my computer and then I just run it hit run and then it gives me
+
+[0:23:33 - 0:23:37]: the transcript and it puts it in this folder so you need to change basically these are the two places
+
+[0:23:37 - 0:23:38]: you need to change.
+
+[0:23:39 - 0:23:43]: Okay I'm actually curious because I before you did this I was like I'm just going to try to build it
+
+[0:23:43 - 0:23:47]: myself I'm dead but I'm curious how different our codes are now.
+
+[0:23:47 - 0:23:50]: Oh yeah I mean this isn't very long by the way.
+
+[0:23:50 - 0:23:52]: Yeah yeah mine was also quite short.
+
+[0:23:52 - 0:23:58]: Yeah so I'm like oh you ended up using whisper right and I think I told it to use whisper.
+
+[0:23:58 - 0:24:00]: Yeah I do use the tiny model or the normal one.
+
+[0:24:01 - 0:24:02]: Uh uh base.
+
+[0:24:04 - 0:24:05]: So how long does yours take to run?
+
+[0:24:06 - 0:24:07]: Several hours.
+
+[0:24:07 - 0:24:08]: Several minutes.
+
+[0:24:09 - 0:24:10]: Minutes.
+
+[0:24:10 - 0:24:10]: Yeah.
+
+[0:24:13 - 0:24:13]: Ah.
+
+[0:24:15 - 0:24:16]: Yeah not that long.
+
+[0:24:16 - 0:24:19]: For this one I thought it was going to take a long time I like started it while I was
+
+[0:24:19 - 0:24:24]: getting a meeting and then it was like just because I started using the like
+
+[0:24:25 - 0:24:33]: base version I think it was called and then it was running for forever and I was like
+
+[0:24:33 - 0:24:37]: to chat to PT how long do you think this will take and it will be and it was like depends
+
+[0:24:37 - 0:24:43]: on your like computer and computing power and that was like I have a MacBook Air like M3
+
+[0:24:43 - 0:24:47]: and they were and it was like oh it'll take like two and a half to five hours and it was like
+
+[0:24:47 - 0:24:51]: what the fuck and I was like is there a smaller model we could run this from and they're like
+
+[0:24:51 - 0:24:58]: yes you can run the tiny model and it'll take an hour and a half and it did like that
+
+[0:24:58 - 0:25:04]: because I could see you know like so let's uh do a definite we could run this now in the background
+
+[0:25:04 - 0:25:13]: and that'll do it again but let's just here let me just maybe create a new folder just so we
+
+[0:25:13 - 0:25:21]: does it output as an srt or as a text file next maybe that's why and how often is it giving you
+
+[0:25:21 - 0:25:31]: timestamps every time you speak so see here like are running differently I think mine's giving
+
+[0:25:31 - 0:25:41]: a time I'm stamp per amount of time see look here oh per no so every couple seconds yeah okay mine is
+
+[0:25:41 - 0:25:47]: to yeah yeah no but it is the same because the srt like it's just a different format but it's the
+
+[0:25:47 - 0:25:54]: same thing that's crazy so I mean I can I can now here let me
+
+[0:25:59 - 0:26:07]: um I'm trying like I can run it again but it's giving you everything it's giving you it as a
+
+[0:26:07 - 0:26:15]: json srt no this is these are old ones oh okay um this one just is just giving me the text
+
+[0:26:15 - 0:26:25]: because oh yeah we don't we just need this we don't need exactly yeah yeah um huh I'm trying I just
+
+[0:26:25 - 0:26:36]: want to save it somewhere so let me just make a new folder output I guess the other thing is like
+
+[0:26:36 - 0:26:40]: we could probably just say like give each other the Python codes for the most part
+
+[0:26:41 - 0:26:46]: hey I did I mean basically I shared this with you yeah but rather than a whole repo or whatever
+
+[0:26:46 - 0:26:54]: like actually all we probably need is the one transcription file oh I don't think I could change
+
+[0:26:54 - 0:26:58]: that but also maybe I don't know what you know what I mean like an all we would do is change the
+
+[0:26:58 - 0:27:04]: directory paths and stuff like we actually don't need but anyway okay yeah I'm trying to I'm trying
+
+[0:27:04 - 0:27:13]: to run a trade but I think I don't have that video here anymore oh yeah okay yeah say
+
+[0:27:13 - 0:27:19]: well it's a galaxy so it's interesting though I'm gonna compare the two yeah I'm see I also
+
+[0:27:19 - 0:27:26]: by the way do you have a MacBook Pro oh you do yeah but it's I think it's gonna be two though
+
+[0:27:26 - 0:27:37]: so yeah so I have a faster chip but a less powerful like computer that's I'll tell you which one I have
+
+[0:27:37 - 0:27:49]: this one took so I'll put it let me see if I run it um okay so it now's 10 19 so we'll see when it ends
+
+[0:27:49 - 0:28:00]: just so you know how long it takes yeah okay okay so these two are dead so I'll stop sharing now
+
+[0:28:00 - 0:28:07]: and then you can okay and that maybe I will walk through some of the stuff that's similar um
+
+[0:28:10 - 0:28:13]: okay so
+
+[0:28:13 - 0:28:20]: so mine is all kind of related to the blog post I'll just start there and then you can talk about
+
+[0:28:20 - 0:28:27]: your blog post after um let me just get the file um
+
+[0:28:27 - 0:28:29]: um
+
+[0:28:31 - 0:28:35]: yeah let me just share it
+
+[0:28:37 - 0:28:40]: okay so
+
+[0:28:49 - 0:28:57]: okay so basically um what I did was I like I noted things that we said we wanted to
+
+[0:28:57 - 0:29:07]: try differently from last time and then I have this kind of like stuff that I do so on this one
+
+[0:29:10 - 0:29:16]: project basically for the project files I just have a note to myself I remove all project files
+
+[0:29:16 - 0:29:23]: from the previous week except for the voice or code file and then I have to upload like a meeting
+
+[0:29:23 - 0:29:31]: note to speak a transfer and I like make sure that they're the same um like wording so that the
+
+[0:29:31 - 0:29:37]: prompt when it says like look at this no there's what to do so I uploaded all of that including a
+
+[0:29:37 - 0:29:41]: couple of like other project files so it was like for you this week it was your stuff actually
+
+[0:29:43 - 0:29:48]: um and then I wanted to upload the timestamp thing to be able to try the uh uh uh
+
+[0:29:49 - 0:29:56]: do i start yeah um so I also oh hold on I need to share full screen then um
+
+[0:29:59 - 0:30:06]: okay so then for that um
+
+[0:30:08 - 0:30:09]: oh that's not this
+
+[0:30:10 - 0:30:17]: I put in here no I think I didn't actually write it down but basically then I also
+
+[0:30:18 - 0:30:24]: asked do you actually think I talked about how I tried to get a transcript
+
+[0:30:29 - 0:30:32]: yeah okay I didn't put this in my place but basically
+
+[0:30:34 - 0:30:39]: okay so first I was like I want to see if I can add timestamps to granola
+
+[0:30:39 - 0:30:46]: I tried to oh my god and basically it did not work it just like randomly inserted
+
+[0:30:46 - 0:30:52]: timestamps and then I was like okay then we had that idea last time of trying to merge the timestamp
+
+[0:30:52 - 0:30:56]: file with granola I don't know if you tried that i did work for me yeah i did not
+
+[0:30:57 - 0:31:03]: i did you do it i'm clawed by the way okay yeah like i uploaded both and i was like can you connect
+
+[0:31:03 - 0:31:10]: oh i tried to also develop okay my problem was first like the timestamps jumped around
+
+[0:31:10 - 0:31:16]: so it would be like this was at one minute 18 and then at three minutes six feet at two hours
+
+[0:31:16 - 0:31:22]: from feet and that's like like so then I was like okay and then I told it okay time
+
+[0:31:22 - 0:31:30]: stamps should always move forward um and then like I tried to lower the fuzzy match thresholds
+
+[0:31:30 - 0:31:36]: and I tried to reverse things so it was at first using the timestamp file and trying to put in
+
+[0:31:36 - 0:31:41]: speakers and then I was like do the opposite use the speaker file and try to insert in timestamps
+
+[0:31:41 - 0:31:46]: okay and then it also couldn't do that and then it was like one reason that I'm not
+
+[0:31:46 - 0:31:52]: thinking bad is because there's lots of interjections like we're constantly saying things like okay or
+
+[0:31:52 - 0:31:58]: cool or whatever and I was like okay let's try to just assign no timestamp to anything with
+
+[0:31:58 - 0:32:03]: fewer than five words like let's see if that fixes things okay because that's hard to fuzzy match
+
+[0:32:03 - 0:32:12]: on because we say okay so many times or write so many times so then that still didn't work like it
+
+[0:32:12 - 0:32:19]: it was just wrong it gave it very confidently but was wrong um so then I restarted because I was
+
+[0:32:19 - 0:32:28]: like next I said that it's better to start with your project or file yeah and then I was like okay um
+
+[0:32:28 - 0:32:35]: let me try again and I was like because I was just describing it at first I was like here are two
+
+[0:32:35 - 0:32:41]: things I want to do and then I was like let me give you the two files that I'm trying to merge like
+
+[0:32:41 - 0:32:46]: what should I do and then it was like this is what you should do you should parse this Rt and to
+
+[0:32:46 - 0:32:52]: start time and then parse the transcript into speaker and transcript text so that it can it knows
+
+[0:32:52 - 0:32:58]: what it's trying to fuzzy match these two things okay and then you can match with either of these
+
+[0:32:58 - 0:33:03]: two libraries so by the way I tied both okay and then you should say like okay the similarities
+
+[0:33:03 - 0:33:09]: above a certain thresholds and like assume it matches and assign them and if it's below it you can
+
+[0:33:09 - 0:33:16]: do some sort of fallback logic and then merge them into a new data structure like that and then
+
+[0:33:16 - 0:33:22]: I asked it for if they have questions and blah blah and I said speaker size so give me a time stamp
+
+[0:33:22 - 0:33:27]: every time the speaker changes rather than every 10 seconds yeah um and then basically what to do
+
+[0:33:27 - 0:33:33]: when it can't match confidently just put a best guess speaker label and tag it as uncertain
+
+[0:33:34 - 0:33:39]: and then basically I kept real out everything was marked as uncertain
+
+[0:33:40 - 0:33:45]: and so then I was like okay only market as uncertain if it's below 50% and then everything was
+
+[0:33:45 - 0:33:50]: still marked and then it was like it's below 30% still everything so I was like below 10%
+
+[0:33:50 - 0:33:58]: so everything is below 10% confidence and so then at that point I was like I should just double check
+
+[0:33:58 - 0:34:02]: if it's correct and realize it's all incorrect so then I was like and we were using diff lab
+
+[0:34:02 - 0:34:10]: live okay let's try fuzzy wazzy okay and then I also tried and it only was able to output time
+
+[0:34:10 - 0:34:14]: stamps for the first one and a half hours and then marked everything else's unknown time
+
+[0:34:15 - 0:34:22]: and then that was still wrong so then I gave up but this took a while so at that point
+
+[0:34:24 - 0:34:31]: um this is important because what I fed into chat GPT yeah for were two different kind of to your
+
+[0:34:31 - 0:34:39]: point there was one speaker transcript and there was one time stamp transcript um which for whatever
+
+[0:34:39 - 0:34:44]: reason I did check that the time stamps were correct but it did take at an hour and a half to
+
+[0:34:44 - 0:34:50]: create that file um yeah and although by the way if it's running in the background it doesn't really
+
+[0:34:50 - 0:34:57]: matter no but for instance if I'm trying to like complete the project in an hour and a half then I
+
+[0:34:57 - 0:35:05]: can't do you know I need to type your prep yeah but often I'm like yeah I would have to work on
+
+[0:35:05 - 0:35:11]: something else different yeah right what I've been doing by the way like what the second you put
+
+[0:35:11 - 0:35:21]: up the video I run uh okay yeah yeah which anyway then we should probably like whoever runs it
+
+[0:35:21 - 0:35:28]: should just put it in our face yes yes and but also I should try to figure out what the hell is going
+
+[0:35:28 - 0:35:32]: on that because it doesn't seem right that mine would take an hour and a half and yours would take
+
+[0:35:32 - 0:35:36]: a few minutes so the thing is by the way when I used whisper web it took a really really long time
+
+[0:35:36 - 0:35:41]: but it finished at the end but I'm using pod charm no I know all right so I'm running it now let's see
+
+[0:35:42 - 0:35:48]: it's been done per eight minutes no it's not done yet but let's see I'll tell you some of it too
+
+[0:35:50 - 0:35:56]: okay so then I was like um so this was all the setup of how I set it up and then I was like okay
+
+[0:35:56 - 0:36:03]: here's the prompt um and then I everything in yellow is what I updated before I ran at this time so
+
+[0:36:03 - 0:36:08]: oh because I have two different transcripts I told it that and then the key quotes I was like maybe
+
+[0:36:08 - 0:36:12]: maybe I need to tell it to only look at files with transcripts in the title and then I want to include
+
+[0:36:12 - 0:36:18]: time stamps for the screenshots and then I said to also create screenshots so like
+
+[0:36:18 - 0:36:23]: suggest five ten moments that would make good moments a screenshot in I should say the video um
+
+[0:36:24 - 0:36:29]: like and then I sort of explain what we're trying to do and then also suggest two or three video
+
+[0:36:29 - 0:36:34]: clips which I haven't actually used yet but um okay but I gave the time is of the
+
+[0:36:35 - 0:36:38]: you'll see now yeah and then the other last thing was like
+
+[0:36:40 - 0:36:44]: anyway chatchipvd was pretty good at stopping here but I was like actually I want to just
+
+[0:36:45 - 0:36:51]: have it not have a million words and just say stop here first and then see what happens
+
+[0:36:51 - 0:36:54]: and then I would give it the like second part which is the second part of this
+
+[0:36:55 - 0:37:01]: which um green is things I added into the prompt after I realized there was a problem with what
+
+[0:37:01 - 0:37:08]: it gave me so I noticed for instance that it was struggling to give me enough information about
+
+[0:37:08 - 0:37:13]: each project and now we have a lot of projects we discussed so it would be like we discussed
+
+[0:37:14 - 0:37:19]: six projects and then only give me a rundown of the first four so I was like oh I think I need to
+
+[0:37:19 - 0:37:25]: allow it to give me more words and I can come down and then the goal that was never giving a
+
+[0:37:25 - 0:37:32]: context or backstory and then the tools used it wasn't saying what we were using and then I wanted
+
+[0:37:32 - 0:37:37]: to feel a little bit more like a narrative because it was giving it as like bullet point whatever um
+
+[0:37:39 - 0:37:39]: and then
+
+[0:37:41 - 0:37:46]: which like at first it was telling me for Twitter or X-Tweets like screenshots and I was like
+
+[0:37:47 - 0:37:55]: no we wouldn't put screenshots into X-Tweets so like you need to ignore that um and then I added
+
+[0:37:55 - 0:38:01]: also the Instagram post thing to be like we're gonna have an Instagram post so choose one of your
+
+[0:38:01 - 0:38:08]: quotes and include relevant hashtags and write the description um and then to your point last time
+
+[0:38:08 - 0:38:13]: about you are like under review and refine I should probably make it double check that all the quotes
+
+[0:38:13 - 0:38:24]: um so I'd put that in okay so then basically from there um I got a bunch of stuff that looked
+
+[0:38:25 - 0:38:34]: fine oh so it actually created a list for you for screenshots uh so I asked it to
+
+[0:38:34 - 0:38:44]: yeah but is it also inside the blog text yes okay so this was like okay this is the first part
+
+[0:38:44 - 0:38:50]: right it's just telling me what it did and I was like okay that looks good fine um and then these
+
+[0:38:50 - 0:38:58]: are key quotes with the timestamps whatever okay um so then and I just added this here for reference
+
+[0:38:58 - 0:39:06]: okay and then um I was like these were not great which is why I put a sad face and then these I
+
+[0:39:06 - 0:39:11]: thought were maybe the best quotes of it but they weren't great but they were verbatim quotes
+
+[0:39:11 - 0:39:19]: um like last time um and then this was the original one um which then basically just to
+
+[0:39:20 - 0:39:32]: I edited it a lot as you can kind of see um mostly that it like one problem was that every single time
+
+[0:39:32 - 0:39:36]: it wrote a blog post I started noticing because now this is like the third week we did this
+
+[0:39:36 - 0:39:40]: it just always says like sometimes AM makes our lives easier other times it sends us down a deep
+
+[0:39:40 - 0:39:45]: bugging spiral where we question our life choices and I'm like we cannot begin every single blog post
+
+[0:39:45 - 0:39:50]: this way yeah it was like maybe funny the first time but like you know so it's like okay that feels
+
+[0:39:50 - 0:39:55]: really repetitive and then the personal website deployment was so small that it didn't actually
+
+[0:39:55 - 0:40:00]: mention it so I was like you shouldn't mention and then I added a thing that was like don't mention
+
+[0:40:01 - 0:40:07]: the projects we explored if you don't talk about them later on okay um and then these things were
+
+[0:40:07 - 0:40:14]: just like it was way too general and we didn't understand it was not clear what we were doing
+
+[0:40:14 - 0:40:19]: um and then like yours in particular this make thing it was like
+
+[0:40:21 - 0:40:27]: it you could like it was in unintelligible okay based on what it said right like if you weren't
+
+[0:40:27 - 0:40:32]: actually in the meeting and then the goal was like it didn't tell the story of like why we're
+
+[0:40:32 - 0:40:38]: trying to do this and so I had to it actually I thought was did a pretty it gave me a nice structure
+
+[0:40:38 - 0:40:42]: but like it wasn't great like you couldn't actually understand what any of these projects were
+
+[0:40:43 - 0:40:51]: so we had to do a lot to make it work and so then I had this final blog post and then at that point
+
+[0:40:54 - 0:41:02]: I then refed it in the final blog post and it's like here's my final edit can you know what types
+
+[0:41:02 - 0:41:16]: of changes I made like full of blog and and so then um like here are like major differences
+
+[0:41:16 - 0:41:22]: right it's like more narrative flow more specific to it and then here's what you should probably tell
+
+[0:41:22 - 0:41:29]: it and that's I put in some of this stuff into the new prompt okay um and then I was like okay now
+
+[0:41:29 - 0:41:37]: move on to the social media outputs so then it gave me the social media outputs um which I thought
+
+[0:41:37 - 0:41:42]: were generally pretty good so you're like you can see what I added here
+
+[0:41:44 - 0:41:50]: which is like for instance what is it you need to say that it's make otherwise then like what
+
+[0:41:50 - 0:41:57]: is the authentication right like stuff like that um but I thought it worked pretty well and this
+
+[0:41:57 - 0:42:06]: was very quick and then I asked it for the time Sam's needed to for the screenshots and so I
+
+[0:42:06 - 0:42:12]: asked it to basically first give me a description so I knew what it was trying to do and then
+
+[0:42:12 - 0:42:18]: add it in a format that allowed me to take to put into pie charm or into the pie fun script to pull
+
+[0:42:18 - 0:42:32]: out the screenshots um and basically it ran and pulled it fine um and oh but this was the problem
+
+[0:42:32 - 0:42:41]: so basically oh did it actually pulled for you uh yeah so it add it was the same as you my script
+
+[0:42:41 - 0:42:47]: basically created a whole oh hi charm ran it yes yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah
+
+[0:42:47 - 0:42:57]: that's gbt no and then why didn't try and then um basically two of the five were correct like it
+
+[0:42:57 - 0:43:02]: said that this is what that was and that was correct and it said that's what this was which like
+
+[0:43:02 - 0:43:06]: this is not this is a summary video calls and it said this is a Salesforce email chip workflow
+
+[0:43:06 - 0:43:10]: and then it said this is Salesforce authentication issue and we're still in AI description
+
+[0:43:10 - 0:43:17]: maker by the script and then this is the automated screenshot um with python which I kind of last
+
+[0:43:17 - 0:43:22]: week was a bit strange because we talked about things in different order and I structured the notes
+
+[0:43:22 - 0:43:29]: that it pulled it all together but it was different goals I think but so this was about video recordings
+
+[0:43:29 - 0:43:36]: but it was not the pie charm version and then the AI debugging fail it was like this is not about
+
+[0:43:36 - 0:43:45]: the debugger but it is about that project the sort of and then I asked it okay like can you
+
+[0:43:45 - 0:43:50]: just give me some additional screenshot so I was like in case you know I thought about the
+
+[0:43:50 - 0:43:57]: video to blog AI where you could choose a bunch of images I was like maybe that's what we need to do
+
+[0:43:57 - 0:44:04]: is say like give me two screenshots for every project and then we can all like then we have
+
+[0:44:04 - 0:44:14]: two to choose from okay um so I asked it to do that and basically it's the same sort of problem
+
+[0:44:14 - 0:44:21]: for the projects where it understood where to where in our script to pull from it did a good job
+
+[0:44:21 - 0:44:27]: and for the projects where it didn't understand it did a bad job so like two of them were correct
+
+[0:44:27 - 0:44:33]: but they were both related to the property 24 thing two of them were like okay you know like
+
+[0:44:34 - 0:44:38]: vaguely related but not exactly the caption and six of them were just wrong so like these two
+
+[0:44:38 - 0:44:44]: were correct the salesman mail-timp workflow was still giving me the claw and other stuff
+
+[0:44:45 - 0:44:50]: and then the automated screenshot running was still giving me the exemplary AI stuff
+
+[0:44:50 - 0:44:55]: and then make debugging one was still not giving me the debugger but was giving me at least
+
+[0:44:55 - 0:45:01]: make and then the AI generated quote images was so weird it just kept giving me make
+
+[0:45:05 - 0:45:15]: so not great um the other thing I thought to try but then I stopped was I was like oh we could
+
+[0:45:15 - 0:45:20]: also give it a screenshot for each of the like anytime basic like I don't really for instance
+
+[0:45:21 - 0:45:28]: this if that's where it's from would probably give me the right time stamp for something related to
+
+[0:45:28 - 0:45:39]: the images okay but it wasn't great at just being like this is a project and here's an image
+
+[0:45:39 - 0:45:46]: and my feeling is potentially we will need to just get it to take a bunch of images related to
+
+[0:45:46 - 0:45:53]: either quotes or projects and we and to give us a caption for them and then we'll have to choose
+
+[0:45:53 - 0:45:59]: when we slot it into the blog post I think it's going to be very difficult well we'll see if you
+
+[0:45:59 - 0:46:06]: did it like but that was sort of my finding was sometimes it was fine but between all of these
+
+[0:46:06 - 0:46:13]: screenshots right because now I had a bunch of them it was I was able to be like cool like I have
+
+[0:46:13 - 0:46:21]: enough actually to pull in that it doesn't look insane and then sometimes I just put them in like I
+
+[0:46:21 - 0:46:26]: put the example AI one but I just put it into the part where we said example AI rather than the
+
+[0:46:26 - 0:46:34]: part we said I'm gonna play thought and it was fine um and the last thing is then I was like I
+
+[0:46:34 - 0:46:41]: want to get a sense for how long everything took so I was logging at this time um so
+
+[0:46:43 - 0:46:47]: this is just I that's this why it was like I think it takes about 90 minutes because it was like
+
+[0:46:47 - 0:46:55]: 10 minutes to get the time time stamp transcript um oh wait I think that actually now did take a few
+
+[0:46:55 - 0:47:00]: minutes sorry I feel like the the hour and a half was me trying to get the chat the time stamp
+
+[0:47:00 - 0:47:06]: and speakers and then it didn't work so it is actually quick I just remember now oh yeah by the
+
+[0:47:06 - 0:47:12]: time yeah it was nine minutes yes okay no no no no yeah I I now remember what took so long
+
+[0:47:12 - 0:47:19]: and then I think so then okay so that took and then to set up the project on chat you BT and then
+
+[0:47:19 - 0:47:24]: five minutes chatting with chat you P to generate everything and then like 30 minutes to edit the
+
+[0:47:24 - 0:47:32]: blog post and and then 13 minutes to edit the social media posts and then five minutes oh I think
+
+[0:47:32 - 0:47:37]: that was actually three minutes I think I put it whatever anyway I because I'm pretty sure that
+
+[0:47:37 - 0:47:46]: was really quick I think that was three minutes um 40 50 60 75 okay so then there would be 75
+
+[0:47:46 - 0:47:53]: minutes um and then five minutes for the screenshots but that weren't great so maybe it would
+
+[0:47:53 - 0:48:01]: unit bit more yeah and then potentially uh maybe you need 10 minutes to actually just manually
+
+[0:48:01 - 0:48:09]: find some other helpful images to throw in and like five minutes to probably put in the canva
+
+[0:48:09 - 0:48:16]: quotes into Instagram and then 10 minutes made this is like my guess for these and 10 minutes maybe
+
+[0:48:19 - 0:48:24]: yeah but like that gives you a sense because at first I was like I have no idea like and then we
+
+[0:48:24 - 0:48:29]: can try to get faster than this but at least now we have a benchmark for how long yeah and like the
+
+[0:48:29 - 0:48:33]: first one I don't really count that as taking 10 minutes because it's just like pressing run
+
+[0:48:35 - 0:48:41]: no because it's also setting up the I have to remove the old files it's this after remote
+
+[0:48:41 - 0:48:45]: it's right pressing run I also have to remove all the files and I have to
+
+[0:48:45 - 0:48:49]: we're having download all of these and upload them into chat GBT
+
+[0:48:54 - 0:48:58]: so this probably takes five minutes and then the run takes 10 minutes but you know like
+
+[0:48:58 - 0:49:08]: okay yeah okay yeah um so that's kind of where I landed and I think this is fine and not
+
+[0:49:08 - 0:49:16]: amazing I do like what you are doing around the HTML because I do think it's like now annoying right
+
+[0:49:16 - 0:49:22]: that if I go into medium I would I didn't think about it but I would have to be like this is an H1
+
+[0:49:22 - 0:49:31]: this is whatever yeah I'm bold this like I don't know maybe when you copy and paste into medium
+
+[0:49:33 - 0:49:40]: it preserves it and sees that but I don't know I don't know yeah so anyway
+
+[0:49:40 - 0:49:45]: I think that's a rigid but I had asked it what it had said but I had no notes I mean that would
+
+[0:49:45 - 0:49:49]: be such an easy test literally copy and paste something like this in and see what happens and
+
+[0:49:49 - 0:49:53]: that copy and paste that HTML and then see what happens yeah
+
+[0:49:58 - 0:50:06]: so I didn't spend time like I would say looking at the
+
+[0:50:09 - 0:50:14]: actual content like I'll show you I mean for me basically I did take your updated prompt
+
+[0:50:15 - 0:50:34]: yeah the original one the original one the original one and then I put it so this is like the
+
+[0:50:34 - 0:50:43]: the original one and I tried to run it so like again like I'm in here so this is another attempt
+
+[0:50:43 - 0:50:54]: basically so well wait I think maybe you should only one tap okay so I have two screens so I need this
+
+[0:50:57 - 0:51:10]: okay so I I basically took the original one and I came into this project and I
+
+[0:51:11 - 0:51:22]: I created an updated prompt yeah prompt and if you see here it's this the very long long prompt
+
+[0:51:23 - 0:51:32]: that has the example it um this writes it this is still like the five minutes
+
+[0:51:33 - 0:51:42]: um and I'm looking to see if you like I'd add an Instagram into here but let's see
+
+[0:51:44 - 0:51:47]: yeah Instagram um
+
+[0:51:51 - 0:51:56]: and I don't think I added here the thing about the screen chats it but anyway I then tried to
+
+[0:51:56 - 0:52:07]: do get it to work oh and it did a bad job it didn't do a good job interesting so I was
+
+[0:52:08 - 0:52:17]: kind of and let's see so like I had different iterations updated weekly prompt and created and then I
+
+[0:52:17 - 0:52:24]: said remove this um and then it wasn't following like the main projects you know the goal what we
+
+[0:52:24 - 0:52:28]: tried breakthrough that so then it was like fixing it it was like it's kind of like
+
+[0:52:30 - 0:52:38]: like it wasn't doing as good of a job I felt although here it's it's okay so then I was like okay
+
+[0:52:38 - 0:52:45]: that's a bit weird um but remember I kept adjusting the prompts because chat you PT wasn't doing
+
+[0:52:45 - 0:52:50]: a good job with your original prompt so I wonder if we wouldn't need to update them
+
+[0:52:50 - 0:52:52]: but still like if I like it wasn't miss like the prompt was so long
+
+[0:52:53 - 0:52:58]: and then here also said I want to update it include the time stamps and also Instagram
+
+[0:52:58 - 0:53:05]: for so no this is just to create the new prompt and add a post-genre to the i to that's here I have
+
+[0:53:06 - 0:53:14]: the new um like a new R1 let's see here yeah I do wonder and
+
+[0:53:15 - 0:53:22]: and so what I ended up doing here so this I was like it's almost a good meeting I
+
+[0:53:22 - 0:53:26]: prove it was like working less good like I want to approve it first like I was like why is it
+
+[0:53:26 - 0:53:39]: suddenly not um working as well and here here this is by the way I like added more things right like
+
+[0:53:39 - 0:53:47]: the granola and um and the transcript um I did feel by the way that actually adding
+
+[0:53:50 - 0:53:58]: the granola transcript like the trends that had the speakers and then also mine like it made a mess
+
+[0:53:58 - 0:54:06]: so I actually like it confused it more huh then not but then here also like I noticed like the
+
+[0:54:06 - 0:54:13]: time stamps were it weren't right and and by the way I think even here here there's a here it
+
+[0:54:13 - 0:54:22]: corrected um so that like so again like this was like a bit and here is it okay that's right these
+
+[0:54:22 - 0:54:28]: are the coming posts coming soon post that I asked for other stuff and then what's this one um
+
+[0:54:31 - 0:54:36]: so yeah so maybe we should let's put I ended up doing here because I was like let me create a new
+
+[0:54:36 - 0:54:44]: project um that in the new project I split out the two props so I said one is for content analysis
+
+[0:54:45 - 0:54:51]: first do the content analysis and then I'm basically going to ask it to do the content creation prompt
+
+[0:54:52 - 0:55:00]: um so basically right this is like I'm uploading this is our first week one right so being like
+
+[0:55:00 - 0:55:04]: use the content analysis one here we didn't have by the way granola yet so
+
+[0:55:05 - 0:55:14]: and so then I got this is the overview um then I said now can you use the content prompt and then I
+
+[0:55:14 - 0:55:19]: got content and then I had to be the suddenly I saw where I was like I didn't actually and I
+
+[0:55:19 - 0:55:23]: probably should have put this here no here it's just exploration so I didn't actually try make
+
+[0:55:23 - 0:55:29]: it in the first week so like update it um and then the quotes at whether I think the quotes were
+
+[0:55:29 - 0:55:36]: really not wrong and there was a lot of them they were wrong and there was a lot of them and so
+
+[0:55:36 - 0:55:42]: then I was like less quotes and so this is the last one I haven't really done through it yet I do
+
+[0:55:42 - 0:55:49]: think it's better than the ones I would like it is at least in the right format like the goal what
+
+[0:55:49 - 0:55:56]: we tried it puts it here um break through like it has a right format and final like verdict and
+
+[0:55:56 - 0:56:07]: no any competencies stay awake um does like I feel like it's not good at the quote so that I was almost
+
+[0:56:07 - 0:56:16]: like I don't maybe not less quote or maybe not maybe now maybe now if I take your updated ones
+
+[0:56:16 - 0:56:21]: but it did seem to me and this is like interesting it was like almost kind of like the agent thing
+
+[0:56:22 - 0:56:28]: of like here and basically being there's two separate right there's one that's doing the
+
+[0:56:28 - 0:56:32]: content analysis and then another one that's going to do the integration because it is so so so
+
+[0:56:32 - 0:56:40]: long now the request that we have yes yeah um I do I have several questions for you yeah so
+
+[0:56:40 - 0:56:45]: where do you put the actual project files and yours because I think we're doing an inverse which is
+
+[0:56:45 - 0:56:51]: interesting oh and by the way here I did it for the last one like the AI the the
+
+[0:56:51 - 0:57:00]: or fourth one um and that I put in here so you can see it um okay so you can see so go at the
+
+[0:57:00 - 0:57:07]: minute at least here it did it kept the format for this is for our last one um which was like
+
+[0:57:07 - 0:57:19]: failing before when I was not doing it separate but then yeah um like what are you feeding it you're
+
+[0:57:19 - 0:57:23]: feeding it the transcript and then I said here I said it here I said it was a transcript in the
+
+[0:57:23 - 0:57:29]: granola highlight for context and then I said run the content analysis attaching notes okay so you're
+
+[0:57:29 - 0:57:36]: not feeding it very much information actually no I didn't give it the additional files or like notes
+
+[0:57:36 - 0:57:42]: or anything the meeting notes no the meeting notes it has because it's a granola this is the
+
+[0:57:42 - 0:57:50]: granola different from the highlights this week I was trying out the highlights which is
+
+[0:57:51 - 0:57:59]: um when you remember what I showed you at the end of last meeting when you like highlight over a part of
+
+[0:58:01 - 0:58:08]: so this is this is what I said it okay yeah because I normally feed it our meeting notes I like
+
+[0:58:09 - 0:58:16]: copy and paste our meeting notes which I have found really helps it because it already
+
+[0:58:16 - 0:58:23]: is what we think oh no it's literally our meeting notes file and then I copy and paste to that
+
+[0:58:23 - 0:58:30]: just the other vent section exactly I copy and paste that into text because it then knows like
+
+[0:58:30 - 0:58:35]: these are the project you know I mean we've already prompted it to be like these are the projects
+
+[0:58:35 - 0:58:43]: yeah we do a section with section of this so for instance under like 25 2025 I would have just
+
+[0:58:43 - 0:58:49]: copied all of that other than the like next step sort of yeah you see what I mean then it like gives
+
+[0:58:49 - 0:58:56]: it some sense of what's happening and I feel like that maybe helps it yeah so I could have yeah
+
+[0:58:56 - 0:59:04]: I can try with like adding that in yeah so this is like the summary of what we did
+
+[0:59:05 - 0:59:09]: again it does have here and it doesn't know it does have the different projects because it did it
+
+[0:59:09 - 0:59:16]: yeah this time it didn't yeah yeah yeah so for this one like I feel like it did get what we
+
+[0:59:16 - 0:59:18]: yeah yeah yeah yeah talked about
+
+[0:59:24 - 0:59:30]: and then basically and then I asked for the I do wonder even creation
+
+[0:59:31 - 0:59:40]: if the analysis like we need to be pulling out into different section because basically I remember
+
+[0:59:41 - 0:59:46]: the very first week we tried this I asked granola for good quotes and I asked chakcheevt for good
+
+[0:59:46 - 0:59:52]: quotes yeah off of granola's transcript yeah and chakcheevt did an excellent job and those
+
+[0:59:52 - 0:59:57]: quotes were real but I think it's now getting confused because there's too much information
+
+[0:59:58 - 1:00:03]: and it's trying to come up with too many things that actually if there's like a separate
+
+[1:00:03 - 1:00:08]: chat that's like here's the transcript just literally give me quotes yeah and then maybe
+
+[1:00:08 - 1:00:14]: then it's putting that in the quotes into the main thing and was like use these quotes
+
+[1:00:15 - 1:00:21]: yeah I don't know but like to your point like we both actually ended up it was interesting
+
+[1:00:21 - 1:00:26]: that we both ended up separating the prompts kind of in the same way because before I had that
+
+[1:00:26 - 1:00:31]: it needed to stop right and ask me yes there was one long prompt and so then I was okay I just
+
+[1:00:31 - 1:00:36]: want to feed it into the knowledge libraries two separate items yeah because I do think it I
+
+[1:00:36 - 1:00:41]: also noticed that it seemed to help it get less confused about what it was doing yeah because they
+
+[1:00:41 - 1:00:46]: are very very long now they're very long um
+
+[1:00:49 - 1:00:54]: yeah and so there could even be one by the one a prompt here about quotes and so then I can
+
+[1:00:54 - 1:01:01]: have one I think use the quote prompts to get quotes from the text exactly yeah yeah yeah yeah and then
+
+[1:01:04 - 1:01:10]: and then when I run this one basically using the content analysis putting the transcript the
+
+[1:01:11 - 1:01:16]: quotes and whatever and then asking it to create do the content analysis and then afterwards do the
+
+[1:01:16 - 1:01:23]: content creation by the way is this the way you're meant to use projects because I've been using
+
+[1:01:23 - 1:01:27]: it the opposite way your mind you spread basically this is all the background knowledge that it
+
+[1:01:27 - 1:01:32]: how you mentioned like put the prompt there yeah because I've been doing the opposite where I put the
+
+[1:01:32 - 1:01:38]: like information there and then I just ask it the prompt versus you put the prompts there and then
+
+[1:01:38 - 1:01:44]: you give it the information it depends like here I gave it like some by the way here I connected my
+
+[1:01:44 - 1:01:51]: repo yeah I give it the information but then basically here because I wanted to my goal here is I
+
+[1:01:51 - 1:01:56]: want to have one place that every week we just come in and we say these are the new documents
+
+[1:01:57 - 1:02:02]: now we're on a content creation yeah that makes it a lot easier versus mine I'm like the leading
+
+[1:02:02 - 1:02:07]: and adding yeah so yeah so like in this context yes like I'm just giving you the background and then
+
+[1:02:07 - 1:02:12]: now I'm saying okay now I also want to do a video highlighting yeah so now it's familiar with
+
+[1:02:12 - 1:02:19]: your project and doing it but in our like originally here I mean when I started this I had more
+
+[1:02:19 - 1:02:26]: stuff in the project here it's just like yeah which maybe now we split up more okay and here and
+
+[1:02:26 - 1:02:30]: I feel like here now I could add if we have what we have coming soon once we have this like to add it
+
+[1:02:30 - 1:02:38]: into the project as well yeah but my goal here and to be simplifying for us it was like
+
+[1:02:38 - 1:02:48]: ideally to have a way to just upload right one of the files for this week and then ask it to do
+
+[1:02:48 - 1:02:58]: stuff based on the prompts it has in the library yeah um we're just doing right it's writing
+
+[1:02:58 - 1:03:06]: it's running the prompt on this content yes like that yeah I want to try it that way
+
+[1:03:07 - 1:03:13]: so I do think that it's cleaner than like my way of resetting it off yeah like it was definitely more
+
+[1:03:13 - 1:03:21]: efficient I have just noticed at least with chat I'm curious what that'll work because I've noticed with
+
+[1:03:21 - 1:03:31]: chat GPT it's sometimes like if the conversation is long like loses the original documents it's like oh
+
+[1:03:32 - 1:03:38]: like upload that again sometimes it'll ask me yeah versus like if it's in the project library it never
+
+[1:03:38 - 1:03:45]: loses it because it's like yeah no but that's the thing is like my goal here is to keep
+
+[1:03:45 - 1:03:51]: each conversation really about each week right yeah yeah yeah I guess that's actually not that long
+
+[1:03:51 - 1:03:57]: of a conversation right like here basically essentially okay so it gave me this yeah then I said
+
+[1:03:57 - 1:04:05]: use it then I wasn't using the right format still yeah and then it's like oh we don't have a newsletter
+
+[1:04:06 - 1:04:09]: you're going out a newsletter in the blog and so I did it and then the times whatever time
+
+[1:04:09 - 1:04:17]: stands I think this maybe needs to be called like I do think like I can still take now your prompts
+
+[1:04:18 - 1:04:26]: yeah and the updated ones and put them in here um I think the question is like whether or not
+
+[1:04:26 - 1:04:34]: like this would be good enough from your perspective do you know what I mean so like you need to
+
+[1:04:34 - 1:04:39]: read it because I feel like I'm good enough with it being okay I get like I
+
+[1:04:39 - 1:04:44]: more like I think in my mind if something can be faster for us but we actually
+
+[1:04:44 - 1:04:49]: end up doing it yeah not like oh Charlotte isn't up two hours this week so we
+
+[1:04:49 - 1:04:55]: won't get to it but I care less also because I feel like at the end of the day
+
+[1:04:55 - 1:05:02]: we're saying it's generated by AI yeah I think I'm not so I think we can
+
+[1:05:02 - 1:05:05]: continue to improve it but I'm just saying I did like I'm not saying like oh
+
+[1:05:05 - 1:05:09]: this dropped like the way I think part of the work as we learn to use a
+
+[1:05:09 - 1:05:15]: tools better can be to get this to be better yeah yeah yeah or even to be like
+
+[1:05:15 - 1:05:19]: you know in week one through three our screenshots like you can see they're
+
+[1:05:19 - 1:05:25]: just like whatever right like kind of like put it but now like look we
+
+[1:05:25 - 1:05:28]: actually look so we invested and that would be one of the things that we'd
+
+[1:05:28 - 1:05:31]: like I'll showcase how I'm getting it to do the screenshots better
+
+[1:05:31 - 1:05:39]: whatever that being said I do think like so let's look now at what it did so you
+
+[1:05:39 - 1:05:43]: can see this is right what I did and again like I think I didn't invest at all
+
+[1:05:43 - 1:05:49]: in training it what to do with screenshots so I don't think they're amazing
+
+[1:05:49 - 1:05:58]: because it's scraper oh I can't hear it but that's fine no but here actually you
+
+[1:05:58 - 1:06:09]: said use it yeah okay so that's the clip pagination so it shows the page
+
+[1:06:09 - 1:06:17]: this is actually not as bad yeah honestly I think yours the actual how-to is a
+
+[1:06:17 - 1:06:27]: lot better than like then I'm chat GPTs and then here automated visualization
+
+[1:06:27 - 1:06:37]: so it's I mean let's see yeah in the clip the clips are really nice versus a
+
+[1:06:37 - 1:06:44]: screenshot actually it's a lot more forgiving yeah and it like shows a lot
+
+[1:06:44 - 1:06:48]: more I like the idea of a clip I mean I can't hear it but it looks like it
+
+[1:06:48 - 1:06:56]: hoax break through moment charges so this a plus I agree and surprise
+
+[1:06:56 - 1:07:02]: integration saga so basic connection here I'm showing you this is a fair you
+
+[1:07:02 - 1:07:07]: know good screen like this part seems worse but also mine was really bad for
+
+[1:07:07 - 1:07:11]: this section no but this is a good like I attempted a direct integration using
+
+[1:07:11 - 1:07:16]: yeah but if you don't know what that means like yeah the content I mean like
+
+[1:07:16 - 1:07:20]: there's no context like no but here I created I wanted to make a sales force
+
+[1:07:20 - 1:07:29]: and what does it tempted like you should instead say like yeah yeah and then
+
+[1:07:29 - 1:07:37]: implemented client credentials of our stage it varies but this is a lot
+
+[1:07:37 - 1:07:44]: better than like I think this requires a lot less editing even like then and
+
+[1:07:44 - 1:07:47]: this is the one by the way this is my last project right with the two separate
+
+[1:07:47 - 1:07:53]: like both prompts being in the library and then the second okay I want to show
+
+[1:07:53 - 1:07:59]: you that I separate it yeah here let's see so I just again need to explain
+
+[1:07:59 - 1:08:05]: with these are but like mind didn't even say those yeah and here this is a good
+
+[1:08:05 - 1:08:13]: screenshot by the way actually plus I think that's fair yeah and here content
+
+[1:08:13 - 1:08:19]: creation by it finds a screenshot extraction okay it's good it's actually
+
+[1:08:19 - 1:08:26]: even on the clip example that pie it's on the right one video generally wait
+
+[1:08:26 - 1:08:32]: so it told you which screenshots to use and these were the one and video clips
+
+[1:08:32 - 1:08:38]: and these seem to be correct I mean I don't it's just clawed doing a better job
+
+[1:08:38 - 1:08:43]: yeah you did like this is literally anything that's what I'm saying I didn't I
+
+[1:08:43 - 1:08:47]: invest that that's like oh no I didn't even because I feel like when I scroll
+
+[1:08:47 - 1:08:51]: there's a good but then I saw how much you invested and I was like oh the
+
+[1:08:51 - 1:08:58]: probably gonna be like this is terrible I did not eat so much better but you saw
+
+[1:08:58 - 1:09:03]: how bad those yeah I know like I did nothing like it just in the content creation
+
+[1:09:03 - 1:09:16]: now there's a place that we said to put screenshots yeah here use the following
+
+[1:09:16 - 1:09:25]: format and at least one for every project discussed so interesting like I didn't
+
+[1:09:25 - 1:09:29]: do yeah which is very close to what I did was like I said two for each
+
+[1:09:29 - 1:09:39]: project but like that's so wild yeah okay blog processor another screenshot it's
+
+[1:09:39 - 1:09:45]: on my yeah it's on the by the way it's on the right I can't believe how much better
+
+[1:09:45 - 1:09:51]: it is with this and this by the way don't love I had an issue like an nature
+
+[1:09:51 - 1:09:56]: but I don't it's still not getting the exact formatting of how it's but I also
+
+[1:09:56 - 1:10:06]: wonder if because basically like you need to tell it how bullet points should
+
+[1:10:06 - 1:10:15]: appear no but when I yeah if you look here like in the fourth blog this is how it
+
+[1:10:15 - 1:10:22]: appears here it's like this and then it's taking in an HTML and it's ruining it
+
+[1:10:22 - 1:10:26]: in the beginning it was like a complete disaster I did do in a few iterations and
+
+[1:10:26 - 1:10:30]: I got it's better now because the beginning wasn't getting the headers and so it's
+
+[1:10:30 - 1:10:34]: better now so I probably could play with it and be like no but also I'm curious if
+
+[1:10:34 - 1:10:39]: you for instance throw it into medium medium because medium already has logic
+
+[1:10:39 - 1:10:44]: around this is how a bullet point should appear so if it's marked as a bullet point it
+
+[1:10:44 - 1:10:52]: will show it as what the style guide for medium is for bullet points so it might
+
+[1:10:52 - 1:10:59]: actually appear better there so I do think that this does make me feel like
+
+[1:10:59 - 1:11:04]: probably like we should use cloud yeah for sure yeah we need to move and we can do it now
+
+[1:11:04 - 1:11:10]: I feel like I'll just get on our shared one that got either a cloud has a huge issue every single like
+
+[1:11:10 - 1:11:13]: when we're both I was going to say I think we're just going to need to pay you in front
+
+[1:11:13 - 1:11:21]: another one when I'm using it every single day it got stopped I max out and it's really
+
+[1:11:21 - 1:11:26]: right because then I started to mess things up because I go to GPT and then I do it and it has no idea
+
+[1:11:26 - 1:11:32]: what I did although now I can resolve that actually with no higher one for cloud that makes more sense
+
+[1:11:32 - 1:11:41]: for sharing I'm on the pro that's so irritating so it's really annoying because it's not
+
+[1:11:41 - 1:11:46]: as such because now we're super users right so like if I'm sitting for a couple hours I 100%
+
+[1:11:46 - 1:11:53]: hit the limit so like we're not really going to be able to both play on the same day with a joint
+
+[1:11:53 - 1:12:03]: cloud but for sure with content it's so much better so what I was even thinking now is essentially
+
+[1:12:03 - 1:12:07]: like I do think like I could send you like this version we could improve it now with additional
+
+[1:12:07 - 1:12:11]: prompt stuff that you did but consenting is you would edit it right and then this
+
+[1:12:11 - 1:12:16]: is a century can I go into the blog processor if we say this screen trust clips are good enough
+
+[1:12:17 - 1:12:24]: but I'll say I think in general like also to not have me be able so basically I think
+
+[1:12:25 - 1:12:30]: each week some one person should be assigned this thing yeah once we get and maybe we're already
+
+[1:12:31 - 1:12:36]: I think we're probably one week away from being able to just have one person do it and not have
+
+[1:12:36 - 1:12:43]: the best work on it yeah and then I think you should just be posted and if I'm anyway because I'm
+
+[1:12:43 - 1:12:49]: like more picky if I don't like it I'll just go and edit it in media more.
+
+[1:12:49 - 1:12:55]: Yeah you know I mean just does not be a stopper I think we just because it's not bad right like my
+
+[1:12:56 - 1:13:01]: my thing is just that I think like you don't it doesn't really make sense some of the stuff unless
+
+[1:13:02 - 1:13:05]: you were in the meeting like it reads a little bit like
+
+[1:13:06 - 1:13:14]: and I think I did this without the meeting notes right yeah which I'm still not like I don't know
+
+[1:13:14 - 1:13:19]: because I guess called is a lot better but like that was my problem with ours right that it was
+
+[1:13:19 - 1:13:26]: also like it made it more like a meeting notes like if you knew what that meant client credentials
+
+[1:13:26 - 1:13:31]: or like you know then it yeah then in jobs your memory and everything's understandable but if
+
+[1:13:31 - 1:13:35]: you were reading this as like a random person you'd be like what the fuck is this project
+
+[1:13:39 - 1:13:44]: yeah which the clips help like that's why I'm like the clips I think are actually a lot better than
+
+[1:13:44 - 1:13:51]: a screenshot because they actually help explain a little bit but I just think basically like each
+
+[1:13:51 - 1:13:56]: will a point just needs like 10 more words yeah I mean I can ask you by the way I can wait let's
+
+[1:13:58 - 1:14:05]: make a point well okay but anyway I think I think this should be redone with also the
+
+[1:14:06 - 1:14:11]: meeting or maybe they'll do it already but then I do feel like it's just like playing with whatever
+
+[1:14:11 - 1:14:16]: you know some back and forth here on the blog post then just have it create the rest of the content
+
+[1:14:16 - 1:14:23]: and taking this into the blog processor hoping that it that works with medium they too yeah
+
+[1:14:24 - 1:14:28]: um or getting it to something that will work because then that's like the longest part of like
+
+[1:14:28 - 1:14:39]: getting all the screenshots in the clips yes um and then yeah and then just post it yeah
+
+[1:14:40 - 1:14:44]: like having some like we are like literally just one week away from this
+
+[1:14:45 - 1:14:53]: an easy thing yeah but for week one we don't have granola so like that's like week one essentially
+
+[1:14:55 - 1:15:00]: we're just kind of fine because anyway we're it seems like mostly we're not
+
+[1:15:01 - 1:15:06]: now it looks like we're mostly using granola for the meeting notes and not for the transcript
+
+[1:15:06 - 1:15:10]: because we're actually anyway pulling because we need the transcript with timestamp anyway yeah
+
+[1:15:11 - 1:15:16]: so even I'm thinking I'm not even gonna copy and paste in the granola transcript anymore like
+
+[1:15:16 - 1:15:25]: what's the point we're not really gonna use it yeah and I think the like thing that's nice in terms of
+
+[1:15:26 - 1:15:31]: the AI knowing whose projects are which or who's presenting as long as we give the meeting notes
+
+[1:15:31 - 1:15:35]: which do say who's working on each one then it's fine
+
+[1:15:35 - 1:15:45]: yeah I'm just sorry I'm just going like this is the week one which is this is the one that I
+
+[1:15:45 - 1:15:53]: was just presented is pretty I think it's good enough I would say I better I had to go I did have
+
+[1:15:53 - 1:16:02]: a little bit back and forth here to take out the quotes um but but this is missing this was missing
+
+[1:16:02 - 1:16:08]: from the week four like it didn't give overall a key takeaways yeah but I think it's because maybe
+
+[1:16:08 - 1:16:13]: it is too like I wonder if we also need one prompt for blog post one prompt for social media
+
+[1:16:16 - 1:16:20]: because also then if you go back but I want to relate I want them related
+
+[1:16:21 - 1:16:24]: yeah but I really think the problem to not the social media yeah you're right you're right you're
+
+[1:16:24 - 1:16:29]: right you're right could start to relate because like then you fix the blog post yeah and then
+
+[1:16:29 - 1:16:35]: you're like cool here's the final blog post and anyway you can then like I thought that worked
+
+[1:16:35 - 1:16:43]: quite well of training it to be like yeah how do we get closer to this final blog post yeah and then it
+
+[1:16:44 - 1:16:50]: creates the social media based on that yeah which I think anyways kind of what cloud end up
+
+[1:16:50 - 1:16:55]: doing usually with me it's like okay yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah
+
+[1:16:55 - 1:17:02]: yeah I think that's a good idea yeah um so then here basically it'd be like this
+
+[1:17:02 - 1:17:11]: content analysis okay um and now create the blog post a bit back and forth yes and then and then
+
+[1:17:11 - 1:17:19]: create the rest of the content yeah um and then probably they are even maybe a little bit back
+
+[1:17:19 - 1:17:26]: up but that's it and then here here I do have screenshots yeah there are screenshots clips yeah
+
+[1:17:28 - 1:17:35]: and if I'm able to relate here then we still have oh I think I took it out maybe
+
+[1:17:35 - 1:17:40]: but like the highlight reel like if I can get it to work yes then I would
+
+[1:17:41 - 1:17:45]: then we need to update the vlog one does I put the highlight reel at the top
+
+[1:17:46 - 1:17:54]: yeah but then at least but then at least once it's a project what's nice is then I just come in here
+
+[1:17:54 - 1:18:01]: right and I add a new prompt yeah and then I just delete the old one yes yeah yeah yeah so it's
+
+[1:18:01 - 1:18:07]: kind of fast like anytime we are improving the prompts and then just every week right can be
+
+[1:18:07 - 1:18:13]: renamed because like this is week one and so it's kind of and I do think by the way like we could
+
+[1:18:13 - 1:18:19]: then add to the project the last the last package we did so like I can add here week one package
+
+[1:18:19 - 1:18:22]: week two package week three package so just getting smarter is telling what we actually
+
+[1:18:22 - 1:18:29]: love loaded yes that's true and we could also potentially give it
+
+[1:18:31 - 1:18:40]: social media stuff or like you know like here are our social media accounts so that when it's like
+
+[1:18:40 - 1:18:48]: follow us oh yeah yeah for sure oh whatever yeah but I think that's anyway not that important now
+
+[1:18:48 - 1:18:53]: but yeah yeah but it could be another one here like it could be that exactly yeah for sure
+
+[1:18:54 - 1:18:58]: and then like if we add more accounts then you know like we can I think at this point we're
+
+[1:18:58 - 1:19:04]: probably maxed out on accounts I don't really want to create more but then yeah yeah cool I mean
+
+[1:19:04 - 1:19:12]: I think that eight like html thing is super cool and I can't believe how much better the clips like
+
+[1:19:12 - 1:19:17]: yeah it's just like like but that's a wildly
+
+[1:19:19 - 1:19:27]: like how is shit where my because it yeah no it's right I think it just does a better job of creating
+
+[1:19:27 - 1:19:31]: like content and then also then knowing like what part it took the content from to create it
+
+[1:19:31 - 1:19:47]: I'm so sorry no I I would it's like wild yeah and I did this oh and also I can put in
+
+[1:19:47 - 1:19:52]: that we said the meeting notes and stuff but that would be the specific week like yeah yeah
+
+[1:19:53 - 1:19:58]: which we could like by the way I assume it would work better if there was a project per week
+
+[1:19:59 - 1:20:03]: I just kind of and let me see if I can duplicate a project I just like I just think it's like the
+
+[1:20:03 - 1:20:10]: kind of an overkill yeah all right oh you can't you can't either do you know what I mean like yeah
+
+[1:20:10 - 1:20:16]: I'd probably word but oh my god that seems so like really I'm just trying to get some of it's like
+
+[1:20:16 - 1:20:22]: we can actually use exactly yeah yeah we want to still not have this be like the whole goal was to
+
+[1:20:22 - 1:20:30]: make this be a small of a thing exactly so we can do other things yeah I'm not like curious
+
+[1:20:30 - 1:20:36]: if you can try this week to estimate how much time you think it would take from like start to
+
+[1:20:36 - 1:20:44]: to post right just so we have a sense of like okay I think it will now we're down to an hour of
+
+[1:20:44 - 1:20:50]: work we're down to 45 minutes I'm starting to post right on my minute if I take now like I
+
+[1:20:50 - 1:20:56]: so run the 10 minutes run the transcript oh because you're well you're still asking it to remove
+
+[1:20:56 - 1:21:01]: things but probably that's so that's sure and then I have to upload ready to upload for this week
+
+[1:21:01 - 1:21:09]: all the information I'm gonna have a pink pong yeah so probably take like probably 10 minutes then
+
+[1:21:10 - 1:21:17]: two minutes to make sure I save the video and the blog post in the right places and run the
+
+[1:21:17 - 1:21:24]: HTML creator and how long does it take to run the HTML creator fast it takes 30 seconds okay
+
+[1:21:24 - 1:21:31]: which is like save the and that thing saves the screenshots and and the clips and the HTML okay
+
+[1:21:32 - 1:21:37]: so it takes and then and then it's uploading right and then uploading which is maybe 10 minutes
+
+[1:21:37 - 1:21:42]: to all the different yeah maybe longer but like I don't know how that's gonna be how we're
+
+[1:21:42 - 1:21:48]: yeah we don't know about that yet yeah um but I guess we'll put it into buffer are you probably
+
+[1:21:48 - 1:21:55]: and oh yeah so I don't medium doesn't link to buffer yeah so I have to all the social media
+
+[1:21:55 - 1:22:00]: the big thing because the other one is kind of pretty it's easy yeah yeah yeah but that probably
+
+[1:22:00 - 1:22:08]: that I'll put I say like if let's say I say 20 minutes for that and the 10 minute transcript I'm
+
+[1:22:08 - 1:22:16]: not I'm just kidding run yeah and you're doing it the same time as setting a project yeah there I
+
+[1:22:16 - 1:22:22]: need a transcript for the thing but yeah okay I need that I need to do probably at 40 minutes it
+
+[1:22:22 - 1:22:30]: sounds like yeah I think so and in my mind for me the most difficult part by the way is that it's
+
+[1:22:30 - 1:22:35]: actually the posting yeah it's just so interesting because I'm like whatever like yeah but it seems
+
+[1:22:35 - 1:22:39]: to me by the way I mean especially if I remember when I was showing you here an auto GPT
+
+[1:22:42 - 1:22:52]: that can we have it automatically publish yeah I mean that's basically what buffer is doing
+
+[1:22:52 - 1:23:00]: buffer you're still in a copy and paste I mean like can I give quad credentials or my keys to
+
+[1:23:00 - 1:23:09]: the different accounts and then have it just post my Twitter yeah kind of how I had to wait for
+
+[1:23:09 - 1:23:15]: the news digest right like yeah yeah I actually create an app that's going to have it have the
+
+[1:23:15 - 1:23:21]: different so the right the news digest has my gmail API keys and it just sending me an email
+
+[1:23:21 - 1:23:30]: for my e-mail yeah yeah yeah like hypothetically we could probably create an app that this in
+
+[1:23:30 - 1:23:37]: nose like the blog process of the know the format it knows you would probably we'd have to write
+
+[1:23:37 - 1:23:43]: there which which account I don't know how to do it but it seems to me that probably it knows the
+
+[1:23:43 - 1:23:51]: key and in this case because like I know tech and acolyte you're running socials for a company I
+
+[1:23:51 - 1:23:58]: hate that I even have this information taking a brain space but like all the algorithms like it when
+
+[1:23:58 - 1:24:04]: you publish regularly and so if you publish regularly even on the same day that is better than
+
+[1:24:04 - 1:24:08]: publishing like if you publish once a week it's better to publish with the same day roughly at the same
+
+[1:24:09 - 1:24:14]: time okay and so like in part that's why things like buffer like when do you want to publish and it
+
+[1:24:14 - 1:24:20]: will schedule it so that every Monday Wednesday Friday at a given time yeah and that would probably
+
+[1:24:20 - 1:24:24]: be a bigger thing because then you can get a scheduler but I don't think we care and there's one
+
+[1:24:24 - 1:24:29]: post a week so there's no scheduler that's why I could never schedule the same thing my email
+
+[1:24:29 - 1:24:35]: thing has a scheduler right so it's like even if I run it it could schedule it at 9.15 on Tuesdays
+
+[1:24:36 - 1:24:41]: yes but that doesn't speak to an output that jatitude like I guess oh the jatitude
+
+[1:24:41 - 1:24:46]: PT could maybe save a file on your computer and then a local thing like I'll probably
+
+[1:24:46 - 1:24:50]: get a blogging app kind of like my news digesting right that at the end of the day it's
+
+[1:24:50 - 1:24:56]: yes but a file would need to be saved on your computer to know what the content is my point
+
+[1:24:56 - 1:25:00]: but you could probably ask jatitude PT to save that file on your
+
+[1:25:00 - 1:25:06]: or I don't know do you know what the fourth blog post right I have to save it on my computer
+
+[1:25:06 - 1:25:13]: and then the blog processor right like I select it yeah yeah yeah yeah I don't know how much
+
+[1:25:13 - 1:25:16]: time this would save in that it literally is saving you a copy paste
+
+[1:25:19 - 1:25:25]: but across different platforms and logging into them and like make sure I mean it's just literally
+
+[1:25:25 - 1:25:31]: one platform though because it's buffer all right but I agree with you if you were like all but
+
+[1:25:31 - 1:25:38]: yeah I got words though the yeah you're right you're like the mids of one main
+
+[1:25:41 - 1:25:46]: the comedy bot no one used to be a gram on it or another one no
+
+[1:25:49 - 1:25:55]: but that one also will be manual because you need canva and I'm not convinced we even do that
+
+[1:25:55 - 1:26:01]: maybe we stop doing that and we yeah like don't have because the canva thing maybe we're like
+
+[1:26:01 - 1:26:08]: actually that adds a manual thing yeah so I do think but so okay my point I do think we can
+
+[1:26:08 - 1:26:15]: start and do the manual upload but I do think probably it can be part of our
+
+[1:26:15 - 1:26:20]: yeah I kind of wanted this agent because I was like I'll just do I'll put the blog processor
+
+[1:26:20 - 1:26:26]: and then I'll like write it yeah multiple different yeah I still think it's cool to play around with
+
+[1:26:26 - 1:26:34]: I think again kind of I've a little bit ambitious of building agents where the actual it's like not
+
+[1:26:34 - 1:26:40]: really a problem like where it takes two minutes but I think this will take this longer
+
+[1:26:42 - 1:26:46]: I do not know but you could have said like even this right like kind of blockbuster like
+
+[1:26:46 - 1:26:51]: how long is it gonna take whatever but it would take it as time like no but that actually I
+
+[1:26:51 - 1:26:58]: because I've got to blog for a lot like I know actually how stupid because often we even like have
+
+[1:26:58 - 1:27:04]: like writers or whatever yeah at first like they write like and it's in a Google Doc and we
+
+[1:27:04 - 1:27:08]: approve it and then I used to just like oh I'll just copy and paste it into WordPress and you're
+
+[1:27:08 - 1:27:15]: like open hell like yeah this like you know oh now it looks fucking funny now like to yeah so
+
+[1:27:15 - 1:27:19]: actually I 100% know how long that takes and then I ended up giving those fucking writers our
+
+[1:27:19 - 1:27:24]: WordPress credentials like please don't put any insane because like I can't keep doing this like
+
+[1:27:24 - 1:27:31]: this takes significantly long yeah so I act like versus I am also because I've run social media
+
+[1:27:31 - 1:27:36]: accounts also I'm actually in Buffett really is that I'm sick at a pretty time yeah almost no time
+
+[1:27:37 - 1:27:45]: um but I think anyway it's an inch our purpose of this these projects is not necessarily
+
+[1:27:45 - 1:27:50]: to save time some of them are but some of them are just learning right yeah exactly I do it's
+
+[1:27:50 - 1:27:56]: cool to build it to learn I just don't think that's what eventually you would build in a real company
+
+[1:27:56 - 1:28:04]: I agree although this probably is something that like many companies isn't it I think what's cool
+
+[1:28:04 - 1:28:09]: that I've seen people do actually but is wouldn't work for what we're trying to do or is if you're
+
+[1:28:09 - 1:28:16]: just trying to get followers and you're just trying to create content about stuff so like let's say
+
+[1:28:17 - 1:28:24]: for instance like you're selling health food yeah some things you want about your product but
+
+[1:28:24 - 1:28:32]: some things you just want to talk about like healthy living yeah and lifestyle choices or what's
+
+[1:28:32 - 1:28:37]: like to be a mom like in case most of your customers are moms that I've seen people build
+
+[1:28:37 - 1:28:45]: spots that literally see what the moms are talking about and they like interact with that and
+
+[1:28:45 - 1:28:51]: they like create they do research on perplexity around like a thing that might interest that group
+
+[1:28:51 - 1:28:58]: and then create a thing and then post it and I think that makes a ton of sense yeah which also
+
+[1:28:58 - 1:29:02]: is opposed we could try to build a bot that does outside of our meeting stuff you know that also
+
+[1:29:02 - 1:29:09]: happens to listen to what people are talking about an AI and writes thing and researches and
+
+[1:29:09 - 1:29:15]: writes a thing that stuff I think makes a ton of sense because if you're trying to like listen to
+
+[1:29:15 - 1:29:22]: what social media is talking about in a specific niche universe that's a fucking lot of time and effort
+
+[1:29:23 - 1:29:32]: yeah this version I think is not yeah but I think that version of like bot is like I think a game
+
+[1:29:32 - 1:29:41]: changer I'm taking out Instagram for an hour right yeah I mean I was just like I wanted to see
+
+[1:29:41 - 1:29:57]: about the quotes thing um new club do you want to show these updates first
+
+[1:29:58 - 1:30:02]: yes sure they take us slightly away oh but now we're talking about other things that aren't
+
+[1:30:02 - 1:30:11]: bloggy right yeah yeah minus one is like the games that the game I'm actually excited to get
+
+[1:30:11 - 1:30:18]: away from blocks yeah yeah yeah and I think we needed not right now but the the children's
+
+[1:30:18 - 1:30:24]: book thing I think we need to oh yeah I think that's so cool I think there's something there um
+
+[1:30:25 - 1:30:31]: okay so this one is just the fun thing I'm actually curious so a while ago someone told me
+
+[1:30:31 - 1:30:35]: about this and I kind of forgot about it and only remembered this week and I had both van
+
+[1:30:35 - 1:30:43]: and me do it um but okay so you basically asked chat to you be T who you are and what it was
+
+[1:30:43 - 1:30:48]: I've done this already I actually haven't done it but I said yeah yeah yeah yeah yeah
+
+[1:30:48 - 1:30:54]: it's a male and yeah and I think it's so interesting so this is what mine says if you want to
+
+[1:30:55 - 1:30:57]: yeah so I just left me
+
+[1:31:06 - 1:31:16]: I'm a friend in an A by project wow I know yeah very cool
+
+[1:31:19 - 1:31:24]: did you respond to it no wait I was also asked for it to drive to give you an image of yourself
+
+[1:31:24 - 1:31:31]: wait really yeah and then like many it'll be interesting if it knows like many times basically
+
+[1:31:31 - 1:31:37]: women in high-paying jobs and like that that in automatically will give a male picture
+
+[1:31:41 - 1:31:47]: like here we had a lot of talking about the fact that although I believe in this
+
+[1:31:47 - 1:31:49]: exactly so it should know
+
+[1:31:58 - 1:32:01]: so really interesting do you think it'll be a man
+
+[1:32:02 - 1:32:07]: yeah because it doesn't it shouldn't like it it didn't it hasn't said anything like it shouldn't but
+
+[1:32:08 - 1:32:10]: like even your CV right I think it says Charlie
+
+[1:32:11 - 1:32:12]: oh
+
+[1:32:16 - 1:32:21]: yeah I was gonna say also she's white yeah she's white exactly and I think I think we talked
+
+[1:32:21 - 1:32:26]: about like the woman's circle so here it had like it has had background
+
+[1:32:27 - 1:32:31]: different searches and stuff like that right like even in the posts
+
+[1:32:32 - 1:32:39]: but yeah so she's not she's not Asian of course and you've uploaded pictures which is like
+
+[1:32:39 - 1:32:48]: interesting okay well anyway that was like a fun inside but what if you do yours
+
+[1:32:48 - 1:32:57]: send her to him so okay okay so that was that and then the comedy bot is also quick
+
+[1:32:59 - 1:33:05]: having used buffer before I use it like a long time ago I went it seems pretty self-expanded
+
+[1:33:05 - 1:33:09]: I got one agency that counts and logging with the password so I also can't believe it's still a
+
+[1:33:09 - 1:33:13]: thing and still works and I'm like actually you're still easier than everything else
+
+[1:33:14 - 1:33:21]: like it's lovely um okay so then the comedy bot the I had some
+
+[1:33:24 - 1:33:30]: issues with it this week okay um which is
+
+[1:33:31 - 1:33:41]: I didn't actually explain what it was but it was really not great and also has started
+
+[1:33:41 - 1:33:46]: repeating jokes which is interesting um so
+
+[1:33:51 - 1:33:53]: I know this was
+
+[1:33:53 - 1:33:55]: okay okay
+
+[1:33:59 - 1:34:06]: okay so basically I started giving it this like the this was the the prompt I had from last time
+
+[1:34:06 - 1:34:10]: and by the way I had never tried this prompt before because this was the prompt it gave me at the
+
+[1:34:10 - 1:34:16]: end of last time where it was like based on a whole conversation oh yeah I used okay yeah so like
+
+[1:34:17 - 1:34:27]: do this right um okay and then first it gave me the fuck date range okay and I was like that
+
+[1:34:27 - 1:34:36]: seems like a really yeah basic thing to get wrong um and then it gave me really generic things like
+
+[1:34:38 - 1:34:42]: interesting um like major tech companies advanced and out of advancements and artificial
+
+[1:34:42 - 1:34:48]: intelligence I was like what are these fucking advancements which companies like
+
+[1:34:49 - 1:34:56]: it was just super generic and and then these were old but I think was maybe related to the date
+
+[1:34:56 - 1:35:01]: range being wrong so I was like try the date range and I tried to rate it a bit and so then I did it
+
+[1:35:01 - 1:35:09]: again um but also like I was like these are not necessarily the biggest news like I listened to
+
+[1:35:09 - 1:35:16]: the news like these are not just sort of strange um and the prayer breakfast was like a long time ago
+
+[1:35:16 - 1:35:24]: now it's like a month ago and I was like you only had one source by the way look at the bottom oh
+
+[1:35:28 - 1:35:35]: but that's just about this yeah all the other ones you should ask for like that would be
+
+[1:35:35 - 1:35:45]: now I see it be like put a source for each and say yeah maybe I should do that okay so then um
+
+[1:35:45 - 1:35:53]: I'm actually gonna write that as a note or but this is like whoops doing that part on perplexity
+
+[1:35:55 - 1:36:04]: the news yeah that's interesting news bot chai asking to leave for a source for each
+
+[1:36:05 - 1:36:17]: new item or try that in flexity okay so then um then I was specifically like also like
+
+[1:36:17 - 1:36:26]: here's a um thing that I thought was funny and then I see my surprises and for whoever um
+
+[1:36:26 - 1:36:38]: um and oh wait this is not the oh I think I have multiple maybe it's a leaded a thing basically it
+
+[1:36:38 - 1:36:44]: came up with a bunch of shit that was like not funny and also at some point I can't find it here
+
+[1:36:44 - 1:36:50]: so I don't remember where it was but it made stuff up like the news items um because it's not
+
+[1:36:50 - 1:36:55]: actually playing the resources it like made up a movie that was like broke all blockbusters
+
+[1:36:55 - 1:36:58]: like wow but haven't really heard of this movie but I don't really follow movies so I googled
+
+[1:36:58 - 1:37:06]: the movie and it doesn't exist and then like random shit like that and like said in some agency
+
+[1:37:06 - 1:37:10]: did this policy and I was like what I haven't heard about that and I like that didn't exist so it
+
+[1:37:10 - 1:37:16]: was like really really wrong and then started repeating some of the same types of the theme jokes
+
+[1:37:17 - 1:37:24]: so I had some issues with it this week um and then oh log into the
+
+[1:37:25 - 1:37:33]: hmm what if it's because I logged in with uh meta let's uh okay I choose
+
+[1:37:34 - 1:37:40]: hot only oh my god I Instagram no but I want to maybe I want if it's related to that
+
+[1:37:46 - 1:37:54]: account natively I don't know what that means but I am
+
+[1:37:56 - 1:37:59]: no this is really uh
+
+[1:38:04 - 1:38:08]: but also this is threads though that I'm asking it to publish on
+
+[1:38:08 - 1:38:13]: I know but it's saying it says oh I see I see I see okay okay
+
+[1:38:14 - 1:38:20]: um so here but I am now here
+
+[1:38:22 - 1:38:27]: notifications no and then here
+
+[1:38:31 - 1:38:37]: no I don't know it seems fine yeah uh oh's
+
+[1:38:43 - 1:38:44]: right now
+
+[1:38:51 - 1:38:57]: anyway then I had to work with it oh that was fine I had to work with it quite a bit to be like um
+
+[1:39:00 - 1:39:05]: to go back and forth with jokes so for instance it had like something around the federal
+
+[1:39:05 - 1:39:10]: employees being hunger gamesy and I was like oh it's kind of funny but actually what I want you
+
+[1:39:10 - 1:39:16]: to do is like really lean into it being hunger games so what happens if it's like actually
+
+[1:39:16 - 1:39:22]: hunger games and now then you have to win efficiency competition with game popular and X um
+
+[1:39:23 - 1:39:26]: and stuff like that and some of them are not that funny but anyway
+
+[1:39:27 - 1:39:34]: so I might give up on this but it was fun for a while um but I want to try the
+
+[1:39:34 - 1:39:38]: proplexity thing yeah because basically proplexity is really good at that
+
+[1:39:38 - 1:39:50]: scraping it like recent recent yeah okay like that's a niche like getting uh real websites from
+
+[1:39:50 - 1:39:59]: the one okay I'm skipping it so like that portion and putting that input in okay um and that
+
+[1:40:04 - 1:40:18]: uh oh and I'm not right what I was doing okay so basically then the next thing is around the
+
+[1:40:18 - 1:40:30]: scheduler so this time um I used GROC and that's so bad guys
+
+[1:40:34 - 1:40:37]: um okay forget how to get to
+
+[1:40:37 - 1:40:49]: you here yeah it's like it's hidden each time so um basically then I asked it so I think you
+
+[1:40:49 - 1:41:02]: you read the thing but like I asked it to try to help move off collab um and so basically that has
+
+[1:41:02 - 1:41:09]: now worked um so you're on Pitcharm no this is not on Pitcharm this is all on
+
+[1:41:11 - 1:41:15]: get uh because it's all yeah get hub and then get hub runs it
+
+[1:41:17 - 1:41:23]: oh okay so yes so basically um
+
+[1:41:24 - 1:41:25]: um
+
+[1:41:27 - 1:41:35]: what happens oh so how um get hub desktop works is it works really similarly to um
+
+[1:41:37 - 1:41:38]: to
+
+[1:41:39 - 1:41:46]: Pitcharm where basically I need to have a folder on my desktop and then get hub is
+
+[1:41:49 - 1:41:50]: um actually
+
+[1:41:57 - 1:42:00]: um let me show you full screen
+
+[1:42:01 - 1:42:08]: um so
+
+[1:42:10 - 1:42:19]: there and here so basically it's connected to a repository on my computer which is basically
+
+[1:42:20 - 1:42:28]: here okay anytime I update something like let's say I went into this and I updated uh
+
+[1:42:28 - 1:42:34]: I hate that it opens in that yeah then it basically what it'll show is that it will show
+
+[1:42:35 - 1:42:41]: it's slightly different than on Pitcharm then it'll show basically this has updated do you want to
+
+[1:42:41 - 1:42:48]: update it and then I'll push here and then I'll commit here okay and so but that makes it a
+
+[1:42:48 - 1:42:57]: lot easier right because then anyway so then one of the things that's in that file um is so I have
+
+[1:42:57 - 1:43:03]: my scraper and assuming that by the way this is just the desktop but like on Pitcharm I just
+
+[1:43:03 - 1:43:10]: commit and push and then it just updates the get hub oh okay I can show it to you in a second
+
+[1:43:10 - 1:43:14]: I just go like control K and then it says do you want to commit and push all your changes and I
+
+[1:43:14 - 1:43:17]: put a note and they say yes and then it just has it and then everything's just updated and
+
+[1:43:19 - 1:43:24]: I mean but that's basically the same thing it's just that I normally edit this in sublime and that
+
+[1:43:24 - 1:43:29]: which actually anyway within Pitcharm I never updated in Pitcharm because I prefer sublime
+
+[1:43:30 - 1:43:36]: and then I and then it automatically updates in Pitcharm so I don't edit from Pitcharm can you
+
+[1:43:37 - 1:43:43]: but um so this is the the the same script that's slightly different the authentication had to
+
+[1:43:43 - 1:43:49]: change slightly as before but now what's different is that you can use get hub workflows so
+
+[1:43:49 - 1:44:01]: this is workflows and then this basically um is something that tells it um to say this runs a
+
+[1:44:01 - 1:44:09]: cron job so every Monday at 7 a.m. did it uh like trigger this workflow and the workflow is basically
+
+[1:44:09 - 1:44:18]: running the scraper hmm so I can't really try it with my like news emailer yeah exactly so basically
+
+[1:44:18 - 1:44:26]: and I think um get hub allows like a certain number of hours of workflow runs but it's like
+
+[1:44:26 - 1:44:31]: large per month you know it's like 200 hours and this takes whatever a few 15 minutes
+
+[1:44:31 - 1:44:38]: and it runs once a week and so it's fine um so that's how it works and then if you go under actions
+
+[1:44:38 - 1:44:43]: then I can see for instance these I manually ran but this one was a scheduled one
+
+[1:44:43 - 1:44:52]: hmm so there was a problem okay wait but also like it told you how to create the workflow
+
+[1:44:52 - 1:44:59]: workflow um so then the problem is this ran and you can see it was a successful run
+
+[1:44:59 - 1:45:06]: yeah but you're in but actually in here let's see if I can go to see
+
+[1:45:06 - 1:45:16]: also it took like a minute yeah so wait no it's here um so these are the logs and you can see
+
+[1:45:16 - 1:45:23]: basically what happened was that it skipped all so it says basically these are the new URLs that
+
+[1:45:23 - 1:45:28]: weren't in the google sheet so these are new listings that we should have to spread she but it was
+
+[1:45:28 - 1:45:33]: running a status 503 and I was like what the fuck is a status 503 and it basically is like it's in
+
+[1:45:33 - 1:45:40]: an entrance denial so we see the bottom thing okay and so then I was like grok why and then I was
+
+[1:45:40 - 1:45:47]: like oh fuck and then I ran it on colab and it worked and I was like why does it work a colab
+
+[1:45:47 - 1:45:55]: but not on GitHub and apparently colab is a lot smarter by how it's like running things from
+
+[1:45:55 - 1:46:00]: different servers so it doesn't get caught as much but didn't you also at last time I feel like you
+
+[1:46:00 - 1:46:06]: put stuff in the code to know which I already did which was in this hospital okay yeah but it was
+
+[1:46:06 - 1:46:11]: a really simple solution so basically there was a delay so rather they were like the simplest
+
+[1:46:11 - 1:46:16]: solution to just not pounder server is to add a two seconds delay so basically it was like two
+
+[1:46:16 - 1:46:25]: seconds then go visit the next page and pull two seconds and so that and that still is a botish
+
+[1:46:25 - 1:46:31]: behavior right because like who visit page every two seconds on the dot yeah and so now grok
+
+[1:46:31 - 1:46:39]: was like add a randomizer so now there's a randomizer that's like delay randomly between two
+
+[1:46:39 - 1:46:46]: and 15 seconds yeah and so then it's like a little bit and made it like a lot slower right so then
+
+[1:46:46 - 1:46:52]: you can see then I tried running it manually and it worked although there was like one thing that
+
+[1:46:52 - 1:46:59]: it stills in pull so I'm gonna just see next week what happens but this one you can see took 13
+
+[1:46:59 - 1:47:06]: minutes and 35 seconds versus like two minutes yeah but that one didn't get to the actual sites
+
+[1:47:06 - 1:47:13]: no it's an action thanks so I'm gonna see now on Monday what happens and I'm gonna basically
+
+[1:47:15 - 1:47:22]: run I'm gonna see wait till this happens and then run the it manually on colab and see if colab finds
+
+[1:47:22 - 1:47:29]: anything and adds anything that this didn't add but it's cool like I didn't know that you could
+
+[1:47:29 - 1:47:36]: schedule it all and so I learned about workflows and then the other thing which you've kind of
+
+[1:47:36 - 1:47:41]: read about was basically like the there were things that I learned about grok and mostly I thought
+
+[1:47:41 - 1:47:46]: it was like a little bit too hyped because I kept reading that grok was better than anything else
+
+[1:47:47 - 1:47:56]: mm-hmm and like I I can't believe all of this was free like this whole project that I ran with grok
+
+[1:47:56 - 1:48:02]: like you know I was using the free version which 100% I would have run into issues on GPT or
+
+[1:48:02 - 1:48:09]: clogged and it would have just been a pay but I couldn't even you know when you're like ask me
+
+[1:48:09 - 1:48:20]: clarifications first it just didn't work so at first that's like what I tried to do and
+
+[1:48:25 - 1:48:31]: all the way to the top so it was like before we proceed with the task you have any clarification
+
+[1:48:31 - 1:48:40]: questions that would help you so to ask clarification questions um but then I'm going to assume a
+
+[1:48:40 - 1:48:47]: bunch of things about what you prefer and give you then all of the solution including all of the code
+
+[1:48:47 - 1:48:52]: which also this is why I was like I can't believe we didn't run out of words because every single
+
+[1:48:52 - 1:48:58]: time you were giving you will tell much information it was giving me before I even said what my actual
+
+[1:48:58 - 1:49:04]: request like and then I was like I have some questions around this and then I answered my questions
+
+[1:49:06 - 1:49:10]: and then kept going and then it was like based on what I would recommend here's
+
+[1:49:15 - 1:49:23]: uh so it jumped ahead a lot and then it kept like being repetitive so if there were 10 steps
+
+[1:49:23 - 1:49:30]: you know to complete like do these five steps right now and step about number two it would
+
+[1:49:30 - 1:49:35]: answer my thing and be like now and then tell me steps three to six again and I was like oh
+
+[1:49:37 - 1:49:43]: um and then also what was weird is like there's no I couldn't tell I don't think there's like a
+
+[1:49:43 - 1:49:50]: project type thing so at the very beginning I had added it my original script that I was using
+
+[1:49:50 - 1:49:58]: in colab yeah and then it kept thinking that this was my latest script even though it told me to
+
+[1:49:58 - 1:50:05]: change the script it just assumes so it kept being like you you've added this script again like you
+
+[1:50:05 - 1:50:12]: shared your original colab code again at no point did I reshare it and so it kept being like I think
+
+[1:50:13 - 1:50:17]: by the way you have a problem you haven't updated your colab script it's like
+
+[1:50:18 - 1:50:26]: god um and then the last thing was like because it's giving so much information right like it's so
+
+[1:50:26 - 1:50:34]: long every single time I would just try to find my last question that I gave it and UI wise it was
+
+[1:50:34 - 1:50:40]: like stupid because this isn't with a white background and it seems really simple but like then
+
+[1:50:40 - 1:50:48]: like this is my question which actually is really similar to this and so if I'm scrolling just
+
+[1:50:48 - 1:50:56]: to find where we started it's quite difficult to do and also it doesn't have the thing like in the
+
+[1:50:57 - 1:51:01]: canvas and cloud for example that it's just like updating the same version so you have
+
+[1:51:02 - 1:51:14]: yeah the file that's the updated version on the right side yeah um and I did like find it to generally
+
+[1:51:15 - 1:51:20]: like when it was giving instructions I thought it was like much more system okay um but I think
+
+[1:51:20 - 1:51:26]: off like or encode right like this and this are saying the same thing and this was GPT and this was
+
+[1:51:26 - 1:51:34]: grap which I think is I prefer chat to BT's version because then I understand and I can
+
+[1:51:35 - 1:51:40]: manipulate the code more easily but I think if you're an actual coder like this is
+
+[1:51:40 - 1:51:49]: probably really irritating that it's so long winded you know and the instructions also like just
+
+[1:51:49 - 1:51:54]: like I thought that chat to BT was a lot more thorough which I liked because I don't know what the
+
+[1:51:54 - 1:51:59]: fuck I'm doing yeah but again if you're a coder it's like annoying to read all these words you don't
+
+[1:51:59 - 1:52:04]: need that's yeah yeah like imagine if someone were like every time it asked you to copy and pay
+
+[1:52:04 - 1:52:09]: something was like now control see like high like that to control see like I imagine that's what it
+
+[1:52:09 - 1:52:17]: feels like if you're a coder yeah and and then groc was a lot more like here's what you should
+
+[1:52:18 - 1:52:24]: and chat to BT was a lot more like here is like a thing that I would consider and then yeah
+
+[1:52:24 - 1:52:30]: you don't know what to do it feels a bit like decision paralysis yeah so that was my overall feeling on
+
+[1:52:30 - 1:52:36]: this project for would you use it again
+
+[1:52:41 - 1:52:48]: I would I think yeah like I mean I got to the end results no I know but you have the alternatives
+
+[1:52:48 - 1:52:56]: right like you have GPT and cloud now it's like what do you use I think chat to BT sometimes goods
+
+[1:52:56 - 1:53:04]: in this I think is not amazing for coding to be honest and I've heard that about like that if it
+
+[1:53:04 - 1:53:10]: doesn't get to the right code in the first two tries it's basically hopeless like it'll send you
+
+[1:53:10 - 1:53:19]: in an endless loop and I think I've seen that from it and so I would definitely I think now if I
+
+[1:53:19 - 1:53:25]: had access to another tool that was free that allowed me to do this amount of stuff if chat
+
+[1:53:25 - 1:53:31]: to BT failed in the first two attempts I would try to block I don't know if I would go to groc to
+
+[1:53:31 - 1:53:38]: begin with and also I assume they're going to make us pay at some point and I don't know if I would
+
+[1:53:38 - 1:53:49]: pay for yeah and it like for some reason I was running into login issues and that gave up quickly
+
+[1:53:50 - 1:53:57]: yeah
+
+[1:54:09 - 1:54:18]: the the next two are super simple okay cool so oh wait I'm supposed to check
+
+[1:54:19 - 1:54:25]: super simple they're ahead iterations the first one
+
+[1:54:28 - 1:54:32]: I don't have a share about it anymore oh I'm sharing my screen
+
+[1:54:33 - 1:54:44]: oh wait you sharing your screen I think now it allows us both two oh okay so look here
+
+[1:54:46 - 1:54:53]: um so based on like your comedy thing I was like and you can see how many attempts I
+
+[1:54:54 - 1:55:02]: did it but I was like okay can I come up with like do it yourself uh
+
+[1:55:03 - 1:55:11]: games like a three year old that's what so I started with my the regular thing of being like
+
+[1:55:11 - 1:55:21]: clarifying questions and then create the prompt and suggested the prompt um and and in the
+
+[1:55:21 - 1:55:27]: beginning as I wanted to be incorporate current events or trending topics in this week
+
+[1:55:29 - 1:55:35]: um like okay this is a that's the Pluto's discovery whatever I ended up dropping this because I
+
+[1:55:35 - 1:55:42]: saw like it just makes it a mess um and then I was like but then also give me a brief blurb
+
+[1:55:42 - 1:55:49]: to so I can explain like what happened in the to them in the news with the game but then a lot
+
+[1:55:49 - 1:55:55]: of it was a tv series or videos and uh and then I knew you had also issues with the dates or whatever
+
+[1:55:55 - 1:56:05]: so yeah like I was like uh this is probably going down like a rabbit hole um here here I started um
+
+[1:56:07 - 1:56:11]: again with an example of one that I liked I hear I'm still up with the news but I need to know
+
+[1:56:11 - 1:56:18]: is this example one that it had come up with yeah yeah um and so I put it in and so I got
+
+[1:56:19 - 1:56:27]: some on how were they ever when I got instructions I wanted for the instructions blah blah blah blah blah um
+
+[1:56:29 - 1:56:33]: and then I wanted like a weekly like because I was basically I'm probably gonna need a prep
+
+[1:56:33 - 1:56:36]: in the beginning of the week so I was like giving me the list of stuff yeah yeah yeah yeah
+
+[1:56:38 - 1:56:44]: here I was still like we're but then yeah but then I also realized like I probably like seven
+
+[1:56:44 - 1:56:48]: is two months so I just went three and then I wanted them to be Montessori inspired so I had to
+
+[1:56:50 - 1:56:58]: I remained it um and you are like what does that mean like what is a normal game versus a
+
+[1:56:58 - 1:57:03]: Montessori in sparse areas like a theory has like a whole theory around how child development works
+
+[1:57:04 - 1:57:11]: okay so like what things you can like you skills you should work so for example like I want
+
+[1:57:11 - 1:57:17]: someone to learn how to roll right so I'm gonna have like these letters like think um a card
+
+[1:57:17 - 1:57:22]: of the letter that's made of sand paper so like I'm gonna trace it right and that's how I like
+
+[1:57:22 - 1:57:26]: learned my muscle theory of how the letter shape looks and then I'm also gonna like try to write it
+
+[1:57:26 - 1:57:31]: in a sandbox and then I get to see it after I trace it and that way later like later I'm also
+
+[1:57:31 - 1:57:35]: gonna and I'm gonna try to use tweezers and that's gonna improve my ability to use a pencil
+
+[1:57:35 - 1:57:39]: right like the muscle memory and things like that are gonna make it a lot easier for me to write
+
+[1:57:39 - 1:57:44]: when I get there or if that more on like phonetics like you know learning the sounds and I spell
+
+[1:57:45 - 1:57:50]: cat even if I spell it wrong like that's fine I was writing it phonetically and I can like
+
+[1:57:50 - 1:58:00]: much faster right um so now so it's like learning it in a different and ductic way right um so here I
+
+[1:58:00 - 1:58:04]: tried to play around I actually took your prompt right with a date range so I was like maybe I need
+
+[1:58:04 - 1:58:07]: to do this if I want to do the news yeah um
+
+[1:58:10 - 1:58:17]: yeah it didn't work too well um and here and here I was like maybe do I need to teach you more about
+
+[1:58:17 - 1:58:24]: Montessori so I gave it some and the news so here I pulled stuff from like the websites I gave it
+
+[1:58:25 - 1:58:36]: about like what are you using Montessori um and then it suggested games um I didn't feel like they were
+
+[1:58:36 - 1:58:45]: any better or worse if you're more Montessori inspired like did that part work better or not
+
+[1:58:45 - 1:58:49]: really yeah yeah it seemed like that was good enough okay like here we see here put the games
+
+[1:58:49 - 1:58:58]: should be inspired by Montessori um here I don't know what the situation was um but
+
+[1:59:00 - 1:59:04]: then I ended up being like dropping like the way that you had done the steps and I was like okay
+
+[1:59:04 - 1:59:14]: let me just create one um prompt and um so here it gives me the concepts first and then if I like
+
+[1:59:14 - 1:59:22]: the concepts then in materialists and which and then the instructions yeah and instructions and here
+
+[1:59:22 - 1:59:30]: I ended up with okay I'm asking here in the header like Montessori and strongly oh I see this one
+
+[1:59:30 - 1:59:38]: to I need to take that um and here what I want in each instruction and then what's the process
+
+[1:59:38 - 1:59:46]: and the example um and here I got some concepts for approval I like two to four and then I said I
+
+[1:59:46 - 1:59:49]: just want the materials at the top so now basically I've ended up with I have materials at the top
+
+[1:59:50 - 1:59:56]: cool the instructions and like I probably like each one can be posted like in a different day of
+
+[1:59:56 - 2:00:02]: the week yeah that's very cool although I would want it I like I'm now probably trying this again
+
+[2:00:02 - 2:00:07]: without I guess it doesn't really matter but like maybe taking that out it's probably the
+
+[2:00:08 - 2:00:11]: one of my things was like it gave me like household items that weren't simple enough and so I had to
+
+[2:00:11 - 2:00:16]: be like common uh great easy because they didn't want to have to buy stuff right so at the end of the day
+
+[2:00:16 - 2:00:22]: here yeah or like maybe some stuff but have it be super basic right here different containers
+
+[2:00:23 - 2:00:28]: yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah
+
+[2:00:28 - 2:00:33]: I don't have an eye jumper but I do have a small spoon right yeah yeah yeah like things like
+
+[2:00:33 - 2:00:37]: that so that was a part of the working and so I think it's a really cool idea
+
+[2:00:39 - 2:00:43]: and probably it's probably it's probably because this to our ideas is a good idea to check
+
+[2:00:44 - 2:00:49]: yeah but also like let's say you were like you know how there are all these like mom flancers
+
+[2:00:50 - 2:00:56]: and there are all these people like explain kids or early like whatever yeah you could probably use
+
+[2:00:56 - 2:01:02]: something like this and be like I'm doing with my kid now this thing and I feel like people share
+
+[2:01:04 - 2:01:08]: those videos and they're like oh this is a good idea that we should do with our family
+
+[2:01:09 - 2:01:15]: yeah but I know you don't want to do that but my point is like this they could use it yeah yeah yeah yeah
+
+[2:01:16 - 2:01:20]: so yeah and here I mean and I asked for either if an adaptation if there's like an older child
+
+[2:01:20 - 2:01:25]: or like an extension like how do like you got a prop or color in the freezing water
+
+[2:01:26 - 2:01:31]: when it's like freeze and items in the ice in ice cubes right like little animals and then wash
+
+[2:01:31 - 2:01:39]: them out and you just like melting is yeah it's melting freezing and then it's all of these
+
+[2:01:40 - 2:01:49]: different skills so yeah I do wonder if I'll end up with the same issues as you would said
+
+[2:01:50 - 2:01:56]: where it's the same I think over and over again yeah exactly yeah so that's the I'm by the way I did
+
+[2:01:56 - 2:02:02]: this on GPT because my clawed head yeah and it also probably just to lead on I feel like the
+
+[2:02:02 - 2:02:08]: clawed would be better at this but yeah like because we're infants mine sharp tank is now appear twice
+
+[2:02:09 - 2:02:13]: yeah which is like I've only been doing this for like two and a half weeks right and then like
+
+[2:02:15 - 2:02:19]: forget there's a couple things that have appeared a couple times I'm like that's the same joke
+
+[2:02:20 - 2:02:24]: so I probably shouldn't have shown this to you I'm sorry on the document that I
+
+[2:02:24 - 2:02:33]: always do I think it was a really cool idea I love all these little extensions over but yeah okay I think
+
+[2:02:34 - 2:02:39]: if we end up with lots of extensions of stuff then an agent also will be helpful
+
+[2:02:40 - 2:02:48]: that just run all of them yeah exactly yeah like for now I think buffer is probably fine yeah so
+
+[2:02:48 - 2:02:55]: I'll try to put it on so now that you created the third idea um and then this other one I didn't
+
+[2:02:55 - 2:03:05]: create a document but one of uh and then where is it I think it's on a Moses chapter PT or my claw
+
+[2:03:05 - 2:03:13]: let's see um so one of our last friends dad see has like he knows how to use RFID technology
+
+[2:03:13 - 2:03:18]: and if he has a 3d printer so he was like I wanted to develop a game for like helping to
+
+[2:03:18 - 2:03:25]: learn how to read it right so then he was like can you help me think of stuff and so then basically
+
+[2:03:25 - 2:03:32]: I went into and this is spread out across different tools because my clawed ran out but I asked
+
+[2:03:32 - 2:03:39]: you know how your modular expert but I went to a Montessori preschool oh you personally I did yeah
+
+[2:03:40 - 2:03:46]: um so I was like how do you use three how do you use essential materials that's like what the
+
+[2:03:46 - 2:03:50]: materials are called and so it gave me okay like sandpaper letters what I just told you about
+
+[2:03:50 - 2:03:54]: like the tree seeing movable alphabet that you like your reigns I would just run them out
+
+[2:03:56 - 2:04:01]: um different ways and then I asked it to like brainstorm how to use RFID technology and
+
+[2:04:01 - 2:04:13]: 3d printout letters um and so here I then I moved to the then I moved right out um here here I
+
+[2:04:13 - 2:04:19]: already came with like the game that I liked and there's also like there's like a mat in Montessori
+
+[2:04:19 - 2:04:23]: where the games happen at a mat and so it's just suggested like a fireman so I came here already
+
+[2:04:23 - 2:04:32]: with an idea and I was like you know help me flush it out um I can only use RFID and 3d printer
+
+[2:04:32 - 2:04:39]: so it like worked um continued working on it and then I wanted to use a PR like haven't it
+
+[2:04:39 - 2:04:45]: asked for questions and questions and created a PRD um for me and then I actually uploaded
+
+[2:04:45 - 2:04:52]: at PRDs that I had that I liked um did that so it it did so I get added like KPIs
+
+[2:04:54 - 2:04:56]: into it and
+
+[2:05:00 - 2:05:05]: anyway so like oh it was trying to use it for something like wait at the native video and whatever
+
+[2:05:05 - 2:05:11]: he's gonna do something way simpler then oh then that thinness because like it was time or whatever
+
+[2:05:11 - 2:05:15]: but here basically it was saying like have the child place a 3d printer and a smart mat and then
+
+[2:05:17 - 2:05:20]: like it praise the audio prompt of what they're doing and then they can
+
+[2:05:21 - 2:05:25]: because I also I wanted that was one of the things that you didn't see here but I wanted to be screen
+
+[2:05:25 - 2:05:30]: free so I could give you for screens and I was I wanted screen free and so I traced it and then
+
+[2:05:30 - 2:05:35]: if it's correct it'll give me a positive reinforcement or have me continue to do it he doesn't
+
+[2:05:35 - 2:05:40]: know how to do that by the way so like he that was like too difficult to do the tracing with RFID
+
+[2:05:40 - 2:05:45]: who's like it's possible but super complicated um and then if you place multiple letters on the mat
+
+[2:05:45 - 2:05:51]: then it's gonna form the words phonetically and announce them he can't really do that so anyway
+
+[2:05:51 - 2:05:57]: he's just gonna do something that he'd be it'd be interesting if you had told it like or if you
+
+[2:05:57 - 2:06:02]: had asked and how difficult this is remember we had a conversation yeah where you're like
+
+[2:06:02 - 2:06:06]: how technically difficult because obviously you didn't know like what's possible with what's
+
+[2:06:06 - 2:06:13]: easy with RFID what's not um these were what I remember it wasn't great in general at that but I'm
+
+[2:06:13 - 2:06:17]: curious whether it knows that that was a more complicated thing to do versus knots or something
+
+[2:06:17 - 2:06:27]: I can ask yeah so like oh can you mark like in the new mark in the user flow what items are
+
+[2:06:27 - 2:06:33]: more difficult or easier to develop technically or something yeah yeah yeah yeah
+
+[2:06:40 - 2:06:45]: okay so like this is just cool to see how yeah again I
+
+[2:06:46 - 2:06:52]: yeah yeah like probably they're gonna brainstorm with the tool and how interesting yes this is
+
+[2:06:52 - 2:06:59]: the easy part yes what he's doing that challenging okay uh there's nose by the way that
+
+[2:06:59 - 2:07:02]: already is challenging with it out additional sense detection yeah so both of these are sent
+
+[2:07:02 - 2:07:09]: you three and four it was saying you can't do yeah because it's not a sense or basically
+
+[2:07:09 - 2:07:17]: RFID he just knows if it's like a place right um so so then I guess that I'd I could probably be
+
+[2:07:17 - 2:07:23]: like we'll come up now with the different ideas yeah where things are only easier moderate or
+
+[2:07:23 - 2:07:32]: something yeah okay yeah yeah yeah yeah I'll give you the first prototype that he printed you see it
+
+[2:07:32 - 2:07:38]: I'm gonna forward it to cool after after our meeting yesterday because I was like you need to make
+
+[2:07:38 - 2:07:42]: the letters that the printed is like more like sandpaper because that's like I want them to even if
+
+[2:07:42 - 2:07:50]: you can't censor it I can tell it like yes you need to touch it um so I'll show you
+
+[2:07:51 - 2:07:54]: just he just literally sent me a picture of the letter he printed out
+
+[2:07:56 - 2:08:03]: he's just sent it to you I want some um yeah I think it we we need to try to remember to do that
+
+[2:08:03 - 2:08:09]: more because I also forget oh cool yeah it's all right like any places it in the groove
+
+[2:08:10 - 2:08:15]: it'll know that the letter was placed there like and I can tell her right to like
+
+[2:08:15 - 2:08:23]: true yeah yeah but yeah like to remind to ask like how difficult is there and then yeah oh yeah
+
+[2:08:23 - 2:08:27]: for sure yeah yeah yeah yeah and it's funny because it's even though not possible
+
+[2:08:28 - 2:08:35]: yeah yeah yeah because also by the way with the the GitHub desktop I was like is there there are
+
+[2:08:35 - 2:08:39]: a couple moments where I was like is there an easier way of doing this and then it would be like oh
+
+[2:08:39 - 2:08:50]: yes there is but it doesn't automatically do that and I wonder if over time if we constantly say
+
+[2:08:50 - 2:09:01]: that it will know about us that we prefer the like easier way but yeah anyway yeah but this is
+
+[2:09:01 - 2:09:04]: funny like I guess because I didn't know right away when I told him he was like no I can't
+
+[2:09:05 - 2:09:14]: do this but yeah so you're right like gave me the coding and it's the only time you can use that
+
+[2:09:14 - 2:09:22]: exactly yeah yeah because I think this was also the problem with the schedule like in general like
+
+[2:09:22 - 2:09:26]: now I'm learning you need to just double check like if you're not sure how difficult something is
+
+[2:09:26 - 2:09:32]: and you can't double check whether that's the right way to just be like is this
+
+[2:09:33 - 2:09:39]: this is the track oh so by the way so change it has an error here but it changed it here to like
+
+[2:09:39 - 2:09:47]: just be like just place the letter on the map right and then if I put multiple letters it'll do it
+
+[2:09:47 - 2:09:55]: whatever yeah but still like very quickly I got to this right that's so cool yeah like this
+
+[2:09:55 - 2:10:00]: pierce nice pierce de rade and this one I was like okay that's papi eyes and he was like no
+
+[2:10:00 - 2:10:07]: I'm not too I like he doesn't want to invest in like tracking anything oh yeah it's like how do
+
+[2:10:07 - 2:10:11]: we know it's good and he was like no I'm just doing this for fun you know like
+
+[2:10:13 - 2:10:19]: I'm good if we get them to play it even like have your friends started saying that you do the
+
+[2:10:19 - 2:10:27]: job because sometimes I take things seriously they're like it's the project product manager coming
+
+[2:10:27 - 2:10:33]: out of you and we're not going to I know it was like I just wanted your thoughts you know it's
+
+[2:10:33 - 2:10:39]: like cool ideas like make the letter of real like sand paper and actually he made because of
+
+[2:10:39 - 2:10:44]: our kind because of what the pictures I showed him and stuff he made the letters be a lot bigger
+
+[2:10:44 - 2:10:47]: like I showed you there's a tiny letters and I was like think they're not gonna be able to treat
+
+[2:10:47 - 2:10:53]: yes to do it like he was like that's the stuff I wanted not to tell me like track the percent
+
+[2:10:53 - 2:11:02]: of correctly for words like I'm printing out two versions of this like on the 3d printer
+
+[2:11:03 - 2:11:08]: which reminds me I'm supposed to actually record now myself saying all the letters in the alphabet
+
+[2:11:08 - 2:11:10]: okay so that'll be like my
+
+[2:11:10 - 2:11:20]: yeah yeah um which you could also by the way I don't know how much screen time she has but
+
+[2:11:20 - 2:11:25]: don't you oh okay so I was going to be like if there's a specific character she really likes you
+
+[2:11:25 - 2:11:33]: could probably also use like AI software to make it that voice or that I wonder if I could record
+
+[2:11:33 - 2:11:38]: my voice and have it do for me all of the letters and the numbers and say
+
+[2:11:38 - 2:11:47]: the numbers. I haven't used any of the I haven't either but probably I could try
+
+[2:11:47 - 2:12:01]: yeah yeah we could try to just to try the different voice sounds yeah okay oh I need to go soon
+
+[2:12:01 - 2:12:07]: yeah you need to and basically okay I feel like I'm all right to do like the urgent to do in my
+
+[2:12:07 - 2:12:15]: mind is posting yeah so okay so basically you're gonna be mostly coming soon okay so you're
+
+[2:12:15 - 2:12:21]: gonna post coming soon and then but no but take a look you want to take a look at it no I think it's
+
+[2:12:21 - 2:12:27]: fine right because I already took a look at it okay and then do you want to try to do week one
+
+[2:12:28 - 2:12:38]: given all of your maybe just can I send you the HTML and try to upload it to medium
+
+[2:12:41 - 2:12:45]: me try to upload it to me yeah to medium to understand
+
+[2:12:49 - 2:12:54]: yeah yeah yeah can we basically do like how complicated it is at it oh but I have week four
+
+[2:12:54 - 2:13:05]: oh run it so either way can you try to put whichever is I'm gonna see if it works better to
+
+[2:13:05 - 2:13:19]: copy and paste it from like a Google Doc or something versus HTML but like I don't know that
+
+[2:13:19 - 2:13:25]: that will work anyway okay let me just try to upload to medium the HTML I'll set upload now
+
+[2:13:27 - 2:13:33]: I'll upload a week four because that's HTML have in parallel oh because I did basically I want
+
+[2:13:33 - 2:13:39]: to rerun week one right now that we we said a couple things about how we want to restructure the
+
+[2:13:39 - 2:13:47]: prompting yeah so just to do the HTML test like I'll send you yeah it's just I won't actually
+
+[2:13:47 - 2:13:54]: publish anything yeah yeah yeah week four HTML test and then I'll try to rerun week one and then
+
+[2:13:54 - 2:14:00]: I'll put it in a piece basically that you can read all of week one okay and I'm also maybe
+
+[2:14:00 - 2:14:05]: gonna test notion if the medium thing doesn't work exactly yeah exactly yeah okay so I'll try to
+
+[2:14:05 - 2:14:12]: solve for how we get HTML on to a thing and then I'll change the long process to do that but that's
+
+[2:14:12 - 2:14:18]: just okay and then are we gonna not touch this week because basically we want to just now
+
+[2:14:18 - 2:14:25]: improve our prompts and we'll get to the speak week in the future yeah although like if you can
+
+[2:14:25 - 2:14:32]: upload the video video I will a video yeah cuz like I want to upload like I want to get the transcript
+
+[2:14:32 - 2:14:36]: to that afterwards that 10 minutes of like having the transcript yeah yeah yeah yeah yeah that
+
+[2:14:36 - 2:14:41]: automatically anyway uploads now cuz I have it oh I have that set up I don't actually upload anything
+
+[2:14:41 - 2:14:48]: oh nice okay yeah so yeah and I'm also gonna try like I'm gonna see if I can
+
+[2:14:49 - 2:14:54]: as part of the updating prompting I'll have another prompt for the highlight reel and then I'm
+
+[2:14:54 - 2:14:59]: gonna see if I can build out the highlight reel that's why I'm like I wonder if at this point I
+
+[2:14:59 - 2:15:04]: should stop trying to run things and chat to be T because it's clearly worse yeah and I'm also
+
+[2:15:04 - 2:15:10]: gonna I'm gonna move us to I'm gonna get a new paid cloud account for both of us yeah yeah
+
+[2:15:10 - 2:15:15]: on our email and that's where I'm gonna do the project with the updated prompts
+
+[2:15:16 - 2:15:24]: okay just wait for it where is your latest prompt it's in so I've been saving everything in our
+
+[2:15:25 - 2:15:32]: you know we actually share and I'm gonna stop the granola okay oh yeah okay oh and then I'll stop
+
+[2:15:32 - 2:15:36]: my recording I'm gonna stop our recording stop recording I can keep the granola actually because it
+
+[2:15:36 - 2:15:44]: won't be in there yeah okay so um basically you know we have meet recordings and I've just been
+
+[2:15:44 - 2:15:54]: saving everything in the actual so here is my attempt at the blog post last week we don't see I don't
+
+[2:15:54 - 2:16:00]: see your screen oh oh oh
+
+[2:16:00 - 2:16:06]: and also it says it's still recording until there's a stop recording
+
+[2:16:11 - 2:16:19]: stop recording
